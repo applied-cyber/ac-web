@@ -43,15 +43,6 @@ menu:
     - name: Contact
       pageRef: /contact
       weight: 8
-    - name: Search
-      weight: 9
-      params:
-        type: search
-    - name: GitHub
-      weight: 10
-      url: "https://github.com/applied-cyber"
-      params:
-        icon: github
 
 params:
   navbar:
