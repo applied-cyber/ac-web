@@ -1,0 +1,62 @@
+# Hugo configuration file
+title: "Stanford Applied Cyber"
+baseURL: "https://applied-cyber.stanford.edu"
+
+# import hextra as module
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+markup:
+  # allow raw html
+  goldmark:
+    renderer:
+      unsafe: true
+
+  # enable hextra syntax highlight
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - name: Home
+      pageRef: /
+      weight: 1
+    - name: Events
+      pageRef: /events
+      weight: 2
+    - name: Competitions
+      pageRef: /competitions
+      weight: 3
+    - name: Projects
+      pageRef: /projects
+      weight: 4
+    - name: Resources
+      pageRef: /resources
+      weight: 5
+    - name: Membership
+      pageRef: /membership
+      weight: 6
+    - name: Leadership
+      pageRef: /leadership
+      weight: 7
+    - name: Contact
+      pageRef: /contact
+      weight: 8
+    - name: Search
+      weight: 9
+      params:
+        type: search
+    - name: GitHub
+      weight: 10
+      url: "https://github.com/applied-cyber"
+      params:
+        icon: github
+
+params:
+  navbar:
+    displayTitle: false
+    displayLogo: false
+
+  footer:
+    enable: false

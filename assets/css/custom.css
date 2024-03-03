@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400;1,700&family=IBM+Plex+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+@font-face {
+    font-family: cooper hewitt;
+    font-style: normal;
+    font-weight: 200;
+    src: local('Cooper Hewitt'), url(https://fonts.cdnfonts.com/s/21211/CooperHewitt-Thin.woff) format('woff')
+}
+
+@font-face {
+    font-family: cooper hewitt;
+    font-style: italic;
+    font-weight: 200;
+    src: local('Cooper Hewitt'), url(https://fonts.cdnfonts.com/s/21211/CooperHewitt-ThinItalic.woff) format('woff')
+}
+
+@font-face {
+    font-family: cooper hewitt;
+    font-style: normal;
+    font-weight: 300;
+    src: local('Cooper Hewitt'), url(https://fonts.cdnfonts.com/s/21211/CooperHewitt-Light.woff) format('woff')
+}
+
+@font-face {
+    font-family: cooper hewitt;
+    font-style: italic;
+    font-weight: 300;
+    src: local('Cooper Hewitt'), url(https://fonts.cdnfonts.com/s/21211/CooperHewitt-LightItalic.woff) format('woff')
+}
+
+@font-face {
+    font-family: cooper hewitt;
+    font-style: normal;
+    font-weight: 400;
+    src: local('Cooper Hewitt'), url(https://fonts.cdnfonts.com/s/21211/CooperHewitt-Book.woff) format('woff')
+}
+
+@font-face {
+    font-family: cooper hewitt;
+    font-style: italic;
+    font-weight: 400;
+    src: local('Cooper Hewitt'), url(https://fonts.cdnfonts.com/s/21211/CooperHewitt-BookItalic.woff) format('woff')
+}
+
+@font-face {
+    font-family: cooper hewitt;
+    font-style: normal;
+    font-weight: 500;
+    src: local('Cooper Hewitt'), url(https://fonts.cdnfonts.com/s/21211/CooperHewitt-Medium.woff) format('woff')
+}
+
+@font-face {
+    font-family: cooper hewitt;
+    font-style: italic;
+    font-weight: 500;
+    src: local('Cooper Hewitt'), url(https://fonts.cdnfonts.com/s/21211/CooperHewitt-MediumItalic.woff) format('woff')
+}
+
+@font-face {
+    font-family: cooper hewitt;
+    font-style: normal;
+    font-weight: 600;
+    src: local('Cooper Hewitt'), url(https://fonts.cdnfonts.com/s/21211/CooperHewitt-Semibold.woff) format('woff')
+}
+
+@font-face {
+    font-family: cooper hewitt;
+    font-style: italic;
+    font-weight: 600;
+    src: local('Cooper Hewitt'), url(https://fonts.cdnfonts.com/s/21211/CooperHewitt-SemiboldItalic.woff) format('woff')
+}
+
+@font-face {
+    font-family: cooper hewitt;
+    font-style: normal;
+    font-weight: 700;
+    src: local('Cooper Hewitt'), url(https://fonts.cdnfonts.com/s/21211/CooperHewitt-Bold.woff) format('woff')
+}
+
+@font-face {
+    font-family: cooper hewitt;
+    font-style: italic;
+    font-weight: 700;
+    src: local('Cooper Hewitt'), url(https://fonts.cdnfonts.com/s/21211/CooperHewitt-BoldItalic.woff) format('woff')
+}
+
+@font-face {
+    font-family: cooper hewitt;
+    font-style: normal;
+    font-weight: 800;
+    src: local('Cooper Hewitt'), url(https://fonts.cdnfonts.com/s/21211/CooperHewitt-Heavy.woff) format('woff')
+}
+
+@font-face {
+    font-family: cooper hewitt;
+    font-style: italic;
+    font-weight: 800;
+    src: local('Cooper Hewitt'), url(https://fonts.cdnfonts.com/s/21211/CooperHewitt-HeavyItalic.woff) format('woff')
+}
+
+html {
+    font-family: "Cooper Hewitt", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1.125rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: "Cooper Hewitt";
+}
+
+.hextra-cards {
+    grid-template-columns: repeat(auto-fill, minmax(max(180px, calc((100% - 1rem * 2) / var(--rows))), 1fr));
+}
