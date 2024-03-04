@@ -18,7 +18,7 @@ Applied Cyber also runs a number of internal teams and projects, focused on [cam
 
 {{< cards rows="6" >}}
 {{< card title="Slack" link="https://appliedcybersecurity.slack.com" subtitle="Primary communication platform" method="resize">}}
-{{< card title="Mailing List" link=" https://mailman.stanford.edu/mailman/listinfo/applied-cybersecurity" subtitle="General announcements; low volume" method="resize">}}
+{{< card title="Mailing List" link="https://mailman.stanford.edu/mailman/listinfo/applied-cybersecurity" subtitle="General announcements; low volume" method="resize">}}
 {{< card title="Email Us" link="mailto:soe_applied-cyber@stanford.edu" subtitle="All other inquiries" method="resize">}}
 {{< card title="Twitter" link="https://twitter.com/CyberApplied" subtitle="@CyberApplied" method="resize">}}
 {{< card title="Instagram" link="https://instagram.com/stanfordappliedcyber" subtitle="@stanfordappliedcyber" method="resize">}}
