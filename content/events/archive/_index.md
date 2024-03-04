@@ -109,3 +109,48 @@ So if this vulnerability is so severe, why haven’t we seen mass compromises ye
 *Remote*
 
 **Speaker**: Micah Murray, President of Applied Cyber
+
+## Fall 2021
+
+### SSH agent exploitation and SSH alternative research
+
+*Monday, November 15, 2021 at 5:00pm* \
+*Shriram SB33*
+
+**Speaker**: Laura Bauman
+
+### Conflict-Free Replicated Data Types (CRDTs)
+
+*Monday, October 25, 2021 at 5:00pm* \
+*Shriram 262*
+
+**Speaker**: Ruslan Al-Jabari
+
+### Unicode Collisions and Web Attacks
+
+*Monday, October 18, 2021 at 5:00pm* \
+*Shriram SB33*
+
+**Speaker**: Cooper de Nicola, Applied Cyber NTM Lead
+
+### Controversy Surrounding Apple CSAM Policies
+
+*Monday, October 11, 2021 at 5:00pm* \
+*Shriram SB33*
+
+**Speaker**: Micah Murray, President of Applied Cyber
+
+### Unpacking CVE-2021-40444 (Microsoft Office RCE)
+
+*Thursdy, September 23, 2021 at 4:00pm* \
+*Remote*
+
+{{< figure src="flyers/20210923-demirkapi.png" width=500 >}}
+
+Join us for Bill's technical deep dive and reversal of the recently discovered CVE-2021-40444, a high severity Microsoft Office remote code execution (RCE) being broadly exploited in the wild.
+
+{{% details title="Speaker: Bill Demirkapi" closed="true" %}}
+
+Bill Demirkapi is a junior at the Rochester Institute of Technology with an impressive security research portfolio honed since his early high school days. Bill's expertise includes Windows internals, reverse engineering, and offensive security with notable back-to-back speaker appearances at DEF CON in 2019 & 2020.
+
+{{% /details %}}
