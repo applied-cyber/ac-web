@@ -1,5 +1,6 @@
 ---
 title: Winter 2024
+weight: 100
 ---
 
 ## Upcoming Events
