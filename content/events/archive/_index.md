@@ -154,3 +154,32 @@ Join us for Bill's technical deep dive and reversal of the recently discovered C
 Bill Demirkapi is a junior at the Rochester Institute of Technology with an impressive security research portfolio honed since his early high school days. Bill's expertise includes Windows internals, reverse engineering, and offensive security with notable back-to-back speaker appearances at DEF CON in 2019 & 2020.
 
 {{% /details %}}
+
+## Spring 2021
+
+### In Conversation with Julie Tsai
+
+*Thursday, May 26, 2021 at 4:00pm* \
+*Remote*
+
+{{< figure src="flyers/20210526-tsai.png" width=500 >}}
+
+As an experienced cybersecurity and DevSecOps professional, Julie Tsai (Head of Information Security at Roblox) has a bedrock passion for security, privacy - and enabling technology to better society. Julie received her B.A. in Political Science with a minor in Economics while at Stanford.
+
+## Winter 2021
+
+### Bug Bounty Hunter from Down Under
+
+*Friday, February 12, 2021 at 4:00pm* \
+*Remote*
+
+{{< figure src="flyers/20210212-henry.png" width=500 >}}
+
+Jackson Henry is an accomplished security researcher and bug bounty hunter hailing from Sydney, Australia - notably talented even before you consider his 15 years of age. Specializing in OSINT and web application penetration testing, Jackson continues to rack up CVEs and notoriety for his ethical hacking expertise, including recent recognition from the United Nations for discovering and reporting (along with colleagues John Jackson, Aubrey Cottle, and Nick Sahler) a misconfiguration exposing 100,000 UN staff records. Join us to hear about his infosec journey, current projects, and a demo of his favorite techniques.
+
+### Women in Cyber Security Panel
+
+*Friday, February 5, 2021 at 5:00pm* \
+*Remote*
+
+{{< figure src="flyers/20210205-panel.png" width=500 >}}
