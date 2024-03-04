@@ -4,6 +4,8 @@ toc: false
 width: wide
 ---
 
+{{< figure src="team-photo-2023.jpg" >}}
+
 The [Collegiate Cyber Defense Competition](https://nationalccdc.org) is a blue team competition that gives students insight into what real-world attacks are like and how to defend against them. In CCDC, each team of eight must defend a company network against attacks from a professional red team and maintain the availability of services such as web sites, mail servers, and DNS.
 
 Each team is given the same initial configuration, which typically includes an even mix of Linux and Windows machines. In addition to securing the initial network, competitors complete tasks such as setting up new services, performing vulnerability assessment, or providing documentation of company security policies.

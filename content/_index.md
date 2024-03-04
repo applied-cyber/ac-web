@@ -4,7 +4,7 @@ toc: false
 width: wide
 ---
 
-{{< figure src="/team-photo-2023.jpg" >}}
+{{< figure src="/cover-photo.jpg" >}}
 
 **Winter 2024 Meetings**: Fridays 3:30pm-4:30pm, [Y2E2 105](https://campus-map.stanford.edu/?srch=Y2E2), unless otherwise noted. See [event schedule](https://docs.google.com/spreadsheets/d/1BRya2g0tXbu1OQDVHjcpaixstF0pof3E1WKAKlbYOjU/).
 

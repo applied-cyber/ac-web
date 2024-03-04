@@ -4,6 +4,8 @@ toc: false
 width: wide
 ---
 
+{{< figure src="team-photo-2024.jpg" >}}
+
 The [Collegiate Penetration Testing Competition](https://cp.tc) is a red team competition which simulates a professional penetration test. Students act as security engineers tasked with identifying, exploiting, and reporting vulnerabilities in a fictional company infrastructure. The competition not only emphasizes technical prowess and familiarity with a variety of industry tools, but also the ability to communicate risk and promote plans of action to both corporate leadership and fellow engineers.
 
 The competition runs over 24 hours long; teams infiltrate targets throughout the first day, then build their technical reports and presentations overnight to present the next morning. Each team of six is given access to the same configuration, which involves a mix of Windows and Linux hosts, cloud and physical machines. Professional conduct is paramount, and judges dock points for unprofessional actions, such as going out of scope or interrupting normal business traffic, accordingly.
