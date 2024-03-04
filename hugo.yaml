@@ -34,15 +34,12 @@ menu:
     - name: Resources
       pageRef: /resources
       weight: 5
-    - name: Membership
-      pageRef: /membership
-      weight: 6
     - name: Leadership
       pageRef: /leadership
+      weight: 6
+    - name: Join
+      pageRef: /join
       weight: 7
-    - name: Contact
-      pageRef: /contact
-      weight: 8
 
 params:
   navbar:
