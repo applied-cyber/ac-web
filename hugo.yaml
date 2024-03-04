@@ -43,8 +43,11 @@ menu:
 
 params:
   navbar:
-    displayTitle: false
-    displayLogo: false
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: /logo.png
+      link: /
 
   footer:
     enable: false
