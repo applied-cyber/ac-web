@@ -110,3 +110,15 @@ h4,
 h5 {
     font-family: "Cooper Hewitt";
 }
+
+.hextra-card {
+    background-color: #E3EEFD;
+}
+
+.hextra-card svg {
+    background-color: #1E4B9E;
+}
+
+.dark .hextra-card {
+    background-color: #1A2128;
+}
