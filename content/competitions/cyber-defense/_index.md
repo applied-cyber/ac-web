@@ -66,7 +66,7 @@ For all other events, up to 8 team members from the school roster may compete. T
 
 ### 2019
 
-**Roster**: Micah Murray, Pierce Lowary, Antoni Rytel (*captain*), Andea Scott, (TODO).
+**Roster**: Paul Crews, William DeRocco, Raymond Hernandez, Micah Murray, Pierce Lowary, Antoni Rytel (*captain*), Andea Scott, Matthew Tan.
 
 **Placements**:
 * **5th place**, National CCDC, April 23-25, 2019.
