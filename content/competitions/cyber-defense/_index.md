@@ -69,7 +69,7 @@ For all other events, up to 8 team members from the school roster may compete. T
 **Roster**: Paul Crews, William DeRocco, Raymond Hernandez, Micah Murray, Pierce Lowary, Antoni Rytel (*captain*), Andea Scott, Matthew Tan.
 
 **Placements**:
-* **5th place**, National CCDC, April 23-25, 2019.
+* **6th place**, National CCDC, April 23-25, 2019.
 * **1st place**, WRCCDC Regional Finals, March 1-3, 2019.
 * **2nd place**, WRCCDC Qualifier, February 16, 2019.
 * **2nd place**, WRCCDC Invitational, January 26, 2019.
