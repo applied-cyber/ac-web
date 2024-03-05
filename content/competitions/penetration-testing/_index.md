@@ -38,7 +38,7 @@ Up to 6 team members from the school roster may compete. The team roster can hav
 
 ### 2021-2022
 
-**Roster**: Kyla Guru, Glen Husman, Mav Levin, Yasmine Mitchell (*captain*), Cooper de Nicola, Eli Wald
+**Roster**: Jack Cable, Glen Husman, Pierce Lowary, Yasmine Mitchell (*captain*), Cooper de Nicola, Eli Wald.
 
 **Placements**:
 * **2nd place**, CPTC Global Finals, January 7-9, 2022.
@@ -48,7 +48,7 @@ Up to 6 team members from the school roster may compete. The team roster can hav
 
 ### 2020-2021
 
-**Roster**: TODO
+**Roster**: Jack Cable, William DeRocco, Kyla Guru, Glen Husman, Pierce Lowary, Katie Watson.
 
 **Placements**:
 * **2nd place**, CPTC Global Finals, January 7-10, 2021.
@@ -56,7 +56,7 @@ Up to 6 team members from the school roster may compete. The team roster can hav
 
 ### 2019
 
-**Roster**: TODO
+**Roster**: Jack Cable, Colleen Dai, William DeRocco, Pierce Lowary, Micah Murray, Anna Zeng.
 
 **Placements**:
 * **1st place**, CPTC National Finals, November 22-24, 2019.
@@ -66,7 +66,7 @@ Up to 6 team members from the school roster may compete. The team roster can hav
 
 ### 2018
 
-**Roster**: TODO
+**Roster**: Jack Cable, Colleen Dai, William DeRocco, Kate Stowell, Matthew Tan, Anna Zeng, Dillon Franke (*alternate*), Wilson Nguyen (*alternate*).
 
 **Placements**:
 * **1st place**, CPTC National Finals, November 2-4, 2018.

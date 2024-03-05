@@ -57,7 +57,7 @@ For all other events, up to 8 team members from the school roster may compete. T
 
 ### 2020
 
-**Roster**: William DeRocco, Raymond Hernandez, Glen Husman, Pierce Lowary, Yasmine Mitchell, Antoni Rytel, Andea Scott (*captain*), Katie Watson, (TODO).
+**Roster**: William DeRocco, Raymond Hernandez, Glen Husman, Pierce Lowary, Antoni Rytel (*captain*), Andea Scott, Matthew Tan, Julia Thompson, Ashley Chen (*alternate*), Micah Murray (*alternate*).
 
 **Placements**:
 * **3rd place**, National CCDC, May 22-24, 2020.
