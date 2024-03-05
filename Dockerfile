@@ -8,8 +8,8 @@ RUN hugo --gc --minify
 
 # --------------------------------------------
 
-FROM nginx
+FROM caddy:latest
 
-COPY --from=builder /app/public /usr/share/nginx/html
+COPY --from=builder /app/public /usr/share/caddy
 
 EXPOSE 80
