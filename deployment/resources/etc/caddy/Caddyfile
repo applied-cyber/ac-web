@@ -1,0 +1,3 @@
+applied-cyber-dev.stanford.edu {
+    reverse_proxy :8080
+}

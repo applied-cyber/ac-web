@@ -1,0 +1,80 @@
+---
+- name: Provision ac-web
+  hosts: all
+  become: true
+  become_user: root
+
+  tasks:
+    - name: Install required packages
+      apt:
+        update_cache: true
+        name:
+          - debian-keyring
+          - debian-archive-keyring
+          - apt-transport-https
+          - ca-certificates
+          - curl
+          - software-properties-common
+        state: present
+
+    - name: Copy resources
+      copy:
+        src: ../resources/
+        dest: /
+
+    - name: Add Cloudsmith repository
+      apt_key:
+        url: "https://dl.cloudsmith.io/public/caddy/stable/gpg.key"
+        state: present
+
+    - name: Add Caddy repository to sources list
+      apt_repository:
+        repo: "deb https://dl.cloudsmith.io/public/caddy/stable/deb/debian
+          any-version main"
+        state: present
+        filename: caddy-stable
+
+    - name: Add Caddy src repository to sources list
+      apt_repository:
+        repo: "deb-src https://dl.cloudsmith.io/public/caddy/stable/deb/debian
+          any-version main"
+        state: present
+        filename: caddy-stable
+
+    - name: Add Docker GPG apt Key
+      apt_key:
+        url: https://download.docker.com/linux/ubuntu/gpg
+        state: present
+
+    - name: Add Docker Repository
+      apt_repository:
+        repo: deb https://download.docker.com/linux/ubuntu jammy stable
+        state: present
+
+    - name: Update apt and install docker-ce, docker-compose, and Caddy
+      apt:
+        name:
+          - docker-ce
+          - docker-compose-plugin
+          - docker-compose
+          - caddy
+        state: latest
+        update_cache: true
+
+    - name: Enable and start docker service
+      service:
+        name: docker
+        enabled: true
+        state: started
+
+    - name: Enable and start docker-compose service
+      service:
+        name: docker-compose
+        enabled: true
+        state: started
+
+    - name: Enable and start Caddy service
+      service:
+        name: caddy
+        enabled: true
+        state: started
