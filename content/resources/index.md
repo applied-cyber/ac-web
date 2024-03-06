@@ -10,6 +10,16 @@ This page contains links to helpful or educational resources relating to the clu
 * Our [GitHub](https://github.com/applied-cyber) hosts public code for projects and competitions. Any contributions are welcome!
 * Join our [Slack](https://appliedcybersecurity.slack.com) to discuss club events and computer security in general!
 
+### Development
+
+Some things we've built that you might find useful:
+
+* [CCDC tooling](https://github.com/applied-cyber/ccdc): some packages and scripts we use in competition in CCDC
+    - [Network killer](https://github.com/aesrentai/network_killer): a Rust tool to kill all established TCP connections on a Linux machine
+    - [Ansible hardening toolkit](https://github.com/aesrentai/ansible_hardening_toolkit)
+* [CatShare](https://github.com/saligrama/catshare-serverless): a cat-themed vulnerable website featuring IDOR, XSS, and session handling vulnerabilities
+* [Securescope](https://github.com/saligrama/securescope): an autograder base Docker image for Gradescope with improved security
+
 ## Stanford resources
 
 * [Stanford Cyber Policy Center](https://cyber.fsi.stanford.edu)
