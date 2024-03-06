@@ -21,6 +21,8 @@ Our whitepaper will be presented by cofounders **Tessa Brown** (CEO), a former S
 *Friday, March 8, 2024 at 3:30pm* \
 *Y2E2 105*
 
+The landscape of security challenges for deployed web applications has evolved significantly over the past decade. While many enterprises have moved much of their compute workload into the public cloud (AWS, GCP, Azure) for both cost and security reasons, use of the cloud does not necessarily mean an application is secure; rather, the cloud changes the nature of the attack surface for that application. This workshop will provide a brief primer on cloud identity and access management (IAM) and its role as the core driver of attack surface for modern serverless and containerized workloads running on the cloud. We'll then run through a cloud capture-the-flag (CTF) challenge that will demonstrate how to take advantage of cloud misconfigurations on AWS.
+
 {{% details title="Speaker: Aditya Saligrama" closed="true" %}}
 
 Aditya Saligrama is the President of Applied Cyber and a senior from the Boston area studying Computer Science on the systems track with interests in web, mobile, and cloud security, distributed systems, and open source software. He competes on the CCDC team as Linux & Cloud lead, helping bring home a National Championship in 2023, and leads web penetration testing on the CPTC team, helping the team place 2nd globally in 2024. Aditya also teaches CS 40 Cloud Infrastructure and Scalable Application Deployment.
