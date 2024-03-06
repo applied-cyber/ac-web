@@ -66,7 +66,7 @@ For all other events, up to 8 team members from the school roster may compete. T
 
 ### 2019
 
-**Roster**: Paul Crews, William DeRocco, Raymond Hernandez, Micah Murray, Pierce Lowary, Antoni Rytel (*captain*), Andea Scott, Matthew Tan.
+**Roster**: Paul Crews, William DeRocco, Raymond Hernandez, Micah Murray, Pierce Lowary, Antoni Rytel (*captain*), Andea Scott, Matthew Tan, Andrew Fang (*alternate*), Lexi Kuppersmith (*alternate*), Juan Leis-Pretto (*alternate*), Joyce Xu (*alternate*).
 
 **Placements**:
 * **6th place**, National CCDC, April 23-25, 2019.
@@ -76,7 +76,7 @@ For all other events, up to 8 team members from the school roster may compete. T
 
 ### 2018
 
-**Roster**: TODO.
+**Roster**: Paul Crews, Colleen Dai, Travis Lanham, Albert Liang, Ali Malik, Wilson Nguyen, Antoni Rytel, Kate Stowell (*captain*), Matthew Tan, Kartik Chandra (*alternate*), Richard Chen (*alternate*), Robert Fernandez (*alternate*).
 
 **Placements**:
 * **5th place**, WRCCDC Regional Finals, March 23-25, 2018.
@@ -85,7 +85,7 @@ For all other events, up to 8 team members from the school roster may compete. T
 
 ### 2017
 
-**Roster**: TODO.
+**Roster**: Paul Crews, Brad Girardeau, Travis Lanham, Albert Liang, Mike Precup, Priyanka Sekhar, Kate Stowell (*captain*), Arthur Tsang, Colleen Dai (*alternate*), Caleb Kumar (*alternate*), Ali Malik (*alternate*), Wilson Nguyen (*alternate*).
 
 **Placements**:
 * **2nd place**, WRCCDC Regional Finals, March 24-26, 2017.
@@ -94,8 +94,10 @@ For all other events, up to 8 team members from the school roster may compete. T
 
 ### 2016
 
-**Roster**: TODO.
+**Roster**: Paul Crews, Caleb Kumar, Albert Liang, Travis Lanham, Brad Girardeau, Mike Precup, Kate Stowell (*captain*), Priyanka Sekhar, Nick Hershey (*alternate*).
 
 **Placements**:
 * **4th place**, WRCCDC Regional Finals, March 18-20, 2016.
 * **2nd place** in Business Operations, WRCCDC Invitational, January 9, 2016.
+
+*Alex Keller has coached the team since its inception in 2016.*

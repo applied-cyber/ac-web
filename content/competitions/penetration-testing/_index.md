@@ -48,7 +48,7 @@ Up to 6 team members from the school roster may compete. The team roster can hav
 
 ### 2020-2021
 
-**Roster**: Jack Cable, William DeRocco, Kyla Guru, Glen Husman, Pierce Lowary, Katie Watson.
+**Roster**: Jack Cable, William DeRocco, Kyla Guru (*captain*), Glen Husman, Pierce Lowary, Katie Watson.
 
 **Placements**:
 * **2nd place**, CPTC Global Finals, January 7-10, 2021.
@@ -56,7 +56,7 @@ Up to 6 team members from the school roster may compete. The team roster can hav
 
 ### 2019
 
-**Roster**: Jack Cable, Colleen Dai, William DeRocco, Pierce Lowary, Micah Murray, Anna Zeng.
+**Roster**: Jack Cable, Colleen Dai, William DeRocco, Pierce Lowary, Micah Murray, Anna Zeng (*captain*), Raymond Hernandez (*alternate*), Antoni Rytel (*alternate*).
 
 **Placements**:
 * **1st place**, CPTC National Finals, November 22-24, 2019.
@@ -66,7 +66,7 @@ Up to 6 team members from the school roster may compete. The team roster can hav
 
 ### 2018
 
-**Roster**: Jack Cable, Colleen Dai, William DeRocco, Kate Stowell, Matthew Tan, Anna Zeng, Dillon Franke (*alternate*), Wilson Nguyen (*alternate*).
+**Roster**: Paul Crews, Colleen Dai, Wilson Nguyen, Kate Stowell, Matthew Tan, Anna Zeng, Dillon Franke (*alternate*), Ali Malik (*alternate*).
 
 **Placements**:
 * **1st place**, CPTC National Finals, November 2-4, 2018.
@@ -76,8 +76,10 @@ Up to 6 team members from the school roster may compete. The team roster can hav
 
 ### 2017
 
-**Roster**: TODO
+**Roster**: Paul Crews (*captain*), Colleen Dai, Travis Lanham, Albert Liang, Wilson Nguyen, Kate Stowell, Ali Malik (*alternate*), Arthur Tsang (*alternate*).
 
 **Placements**:
 * **1st place**, CPTC National Finals, November 3-5, 2017.
 * **1st place**, Western Regional CPTC, October 7-8, 2017.
+
+*Alex Keller has coached the team since its inception in 2017.*
