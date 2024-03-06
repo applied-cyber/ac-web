@@ -64,6 +64,8 @@ Ex-IDF hacker Mav Levin explains how to find undiscovered security weaknesses an
 
 Join Stanford's Applied Cybersecurity (AC) for our first workshop of the year this Friday, 10/14 from 3:30 – 4:30pm in Y2E2 300! Our seasoned members Aditya and Cooper will be walking us through some fundamentals of web security with a hands-on activity for us to try to hack a fake startup site.
 
+[Slides](https://saligrama.io/files/talks/20221014-intro-security-workshop.pdf)
+
 ### Satellite Ground Stations & Space Hacking
 
 *Friday, September 30, 2022 at 4:00pm* \

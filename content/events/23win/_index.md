@@ -10,7 +10,7 @@ weight: 130
 
 {{< figure src="flyers/20230317-glikbarg.png" width=500 >}}
 
-Speaker: Leo Glikbarg
+**Speaker**: Leo Glikbarg
 
 ### Hacking GraphQL for Fun ~~and Profit~~
 
@@ -18,6 +18,8 @@ Speaker: Leo Glikbarg
 *Spilker 143*
 
 {{< figure src="flyers/20230310-saligrama.png" width=500 >}}
+
+[Slides](https://saligrama.io/files/talks/20230310-graphql.pdf)
 
 {{% details title="Speaker: Aditya Saligrama" closed="true" %}}
 
