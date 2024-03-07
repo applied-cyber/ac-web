@@ -1,3 +1,4 @@
-applied-cyber-dev.stanford.edu {
+applied-cyber.stanford.edu {
+    encode zstd gzip
     reverse_proxy :8080
 }
