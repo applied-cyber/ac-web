@@ -2,6 +2,8 @@
 title: Join
 toc: false
 width: wide
+aliases:
+    - /membership
 ---
 
 To join, sign up for our

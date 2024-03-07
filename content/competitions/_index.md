@@ -2,6 +2,11 @@
 title: Competitions
 toc: false
 width: wide
+aliases:
+    - /teams
+    - /teams/ctf
+    - /teams/competition
+    - /teams/applied-cyber-competition-team-accomplishments
 ---
 
 Our student teams participate in competitions involving offensive (red team) and defensive (blue team) skills. We host our own lab environment consisting of several virtual machine hypervisors and dozens of virtual machines for training. This allows us to practice a wide variety of skills that are not usually presented in classes.

@@ -1,6 +1,9 @@
 ---
 title: Projects
 toc: false
+aliases:
+    - /teams/development
+    - /teams/reversing
 ---
 
 ## Roguespot

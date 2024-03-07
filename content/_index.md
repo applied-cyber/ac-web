@@ -2,6 +2,9 @@
 title: Welcome to Stanford Applied Cyber!
 toc: false
 width: wide
+aliases:
+    - /contact
+    - /news
 ---
 
 {{< figure src="/cover-photo.jpg" >}}
