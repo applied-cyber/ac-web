@@ -16,6 +16,8 @@ Germ Network created Germ DM and the Germ protocols to empower people to store i
  
 Our whitepaper will be presented by cofounders **Tessa Brown** (CEO), a former Stanford PWR lecturer with a focus on digital culture, and **Mark Xue** (CTO), Apple’s former privacy engineer for iMessage and Facetime, and a Stanford MSCS grad.
 
+## Past Events
+
 ### Fundamentals and Footguns of Cloud Security
 
 *Friday, March 8, 2024 at 3:30pm* \
@@ -31,7 +33,7 @@ Aditya Saligrama is the President of Applied Cyber and a senior from the Boston 
 
 {{% /details %}}
 
-## Past Events
+[Slides](https://saligrama.io/files/talks/20240308-cloud-security.pdf)
 
 ### Legal Threats to Security Researchers
 
