@@ -3,8 +3,6 @@ title: Winter 2024
 weight: 100
 ---
 
-## Upcoming Events
-
 ### Germ: Privacy & Safety Forward E2EE Messaging
 
 *Friday, March 15, 2024 at 3:30pm* \
@@ -15,8 +13,6 @@ weight: 100
 Germ Network created Germ DM and the Germ protocols to empower people to store information privately on their devices and choose with whom they exchange information and messages. Germ DM, our messenger beta for iOS, lets people start an end-to-end encrypted message instantly without using phone numbers. Come learn how Germ Network uses end-to-end encrypted messages and user profile flexibility to provide users total control over privacy and availability!
  
 Our whitepaper will be presented by cofounders **Tessa Brown** (CEO), a former Stanford PWR lecturer with a focus on digital culture, and **Mark Xue** (CTO), Apple’s former privacy engineer for iMessage and Facetime, and a Stanford MSCS grad.
-
-## Past Events
 
 ### Fundamentals and Footguns of Cloud Security
 
