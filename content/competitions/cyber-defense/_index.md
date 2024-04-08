@@ -24,7 +24,8 @@ For all other events, up to 8 team members from the school roster may compete. T
 
 **Roster**: Kyla Guru (*captain*), Cody Ho, Joey Holtzman, Glen Husman, Donovan Jasper, Jeremy Kim, Aditya Saligrama, Kelechi Uhegbu, Paul Crews (*alternate*), Yasmine Mitchell (*alternate*), Brian Ni (*alternate*).
 
-**Placements** (*season ongoing*):
+**Placements**:
+* **3rd place**, WRCCDC Regional Finals, April 5-7, 2024.
 * **1st place**, WRCCDC Qualifier, February 17, 2024.
 
 ### 2023
