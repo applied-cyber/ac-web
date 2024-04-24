@@ -39,7 +39,11 @@ Teddy Zhang is the Workshops Lead for Applied Cyber and a junior at Stanford stu
 
 **Women in Applied Cyber Lead**: Jay Park (Slack @Jay)
 
-**External Communications Lead**: Joyce Lin (Slack @joyce_lin)
+{{< figure src="headshots/park.png" height=300 width=300 >}}
+
+Jay Park is Applied Cyber's WAC lead and a senior at Stanford studying CS on the systems track.
+
+**External Communications Lead**: Zane St. John (Slack @Zane)
 
 **Advisor & Coach**: Alex Keller (Slack @Alex Keller - SoE IT)
 
