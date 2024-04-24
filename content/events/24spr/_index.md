@@ -5,7 +5,7 @@ weight: 100
 
 ### Intro to Ethical Web Hacking (Admit Weekend Special)
 
-*Friday, April 19, 2024 at 4:30pm* \
+*Friday, April 26, 2024 at 4:30pm* \
 *Y2E2 362*
 
 Join us to hack into a cat-themed startup that’s riddled with common vulnerabilities! You’ll learn how to defend against these attacks in your own projects and hear some war stories along the way.
