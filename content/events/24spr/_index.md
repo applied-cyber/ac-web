@@ -8,6 +8,8 @@ weight: 100
 *Friday, April 26, 2024 at 4:30pm* \
 *Y2E2 362*
 
+{{< figure src="flyers/2024-04-26-intro-security-workshop.jpg" width=500 >}}
+
 Join us to hack into a cat-themed startup that’s riddled with common vulnerabilities! You’ll learn how to defend against these attacks in your own projects and hear some war stories along the way.
 
 {{% details title="Speaker: Aditya Saligrama" closed="true" %}}
