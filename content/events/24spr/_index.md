@@ -3,6 +3,19 @@ title: Spring 2024
 weight: 100
 ---
 
+### Intro to Ethical Web Hacking (Admit Weekend Special)
+
+*Friday, April 19, 2024 at 4:30pm* \
+*Y2E2 362*
+
+Join us to hack into a cat-themed startup that’s riddled with common vulnerabilities! You’ll learn how to defend against these attacks in your own projects and hear some war stories along the way.
+
+{{% details title="Speaker: Aditya Saligrama" closed="true" %}}
+
+Aditya Saligrama is the President of Applied Cyber and a senior from the Boston area studying Computer Science on the systems track with interests in web, mobile, and cloud security, distributed systems, and open source software. He competes on the CCDC team as Linux & Cloud lead, helping bring home a National Championship in 2023, and leads web penetration testing on the CPTC team, helping the team place 2nd globally in 2024. Aditya also taught CS 40 Cloud Infrastructure and Scalable Application Deployment and is a Course Assistant for CS 155 Computer and Network Security.
+
+{{% /details %}}
+
 ### Cross-Language Vulnerabilities
 
 *Friday, April 19, 2024 at 4:30pm* \
