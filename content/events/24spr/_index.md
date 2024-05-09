@@ -3,6 +3,34 @@ title: Spring 2024
 weight: 100
 ---
 
+### Understanding LLM Security: Red Teaming in the Age of AI
+
+*Friday, May 10, 2024 at 4:30pm* \
+*Y2E2 362*
+
+{{< figure src="flyers/2024-05-13-llm-security.png" width=500 >}}
+
+Join us to unlock the secrets behind hacking large language models.  Dive into the depths of how LLMs operate, their construction, and the pathways to exploiting their design, while exploring some of the strangest behaviors in all of computer science.  Discover how to protect your LLM enabled applications using cutting edge defensive techniques, and how you can leverage these techniques to make best use of LLMs in your daily life.
+
+{{% details title="Speaker: Cody Ho" closed="true" %}}
+
+Cody Ho is the Vice President of Applied Cyber and a senior studying Symbolic Systems and Computer Science. Cody’s academic pursuits focus on the intersection of machine learning and cybersecurity, with extensive experience that spans AI safety and ethics, low level systems and networking, HPC workloads, and reverse engineering malware. Cody is a member of Applied Cyber's CCDC and CPTC teams focusing on Linux and Windows defense and automation.
+
+{{% /details %}}
+
+### Project Intro: Applied Cyber's Custom Command and Control
+
+*Friday, May 3, 2024 at 4:30pm* \
+*Y2E2 362*
+
+We’ll cover the basics of C2, its practical applications, deployment strategies, and how you can participate in our exciting C2 project. Don’t miss out on the chance to get involved and learn more about this innovative initiative!
+
+{{% details title="Speaker: Cody Ho" closed="true" %}}
+
+Cody Ho is the Vice President of Applied Cyber and a senior studying Symbolic Systems and Computer Science. Cody’s academic pursuits focus on the intersection of machine learning and cybersecurity, with extensive experience that spans AI safety and ethics, low level systems and networking, HPC workloads, and reverse engineering malware. Cody is a member of Applied Cyber's CCDC and CPTC teams focusing on Linux and Windows defense and automation.
+
+{{% /details %}}
+
 ### Intro to Ethical Web Hacking (Admit Weekend Special)
 
 *Friday, April 26, 2024 at 4:30pm* \
