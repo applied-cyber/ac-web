@@ -3,12 +3,27 @@ title: Spring 2024
 weight: 100
 ---
 
+### Clicks and Conflict: Open Source Intelligence to Navigate Geopolitical Challenges
+
+*Friday, May 17, 2024 at 10:00am* \
+*Y2E2 105*
+
+{{< figure src="flyers/2024-05-17-maltego-geopolitics.png" width=500 >}}
+
+This session will examine geopolitical events through the internet lens, identifying different forms of interference and influence that are often exerted by hostile actors. Diving into these real-world adversarial tactics, we will unpack a wide-ranging Russian influence operation spanning several years and leverage open-source intelligence (OSINT) to uncover an adversary's identity.
+
+{{% details title="Speaker: Nitish Chandan" closed="true" %}}
+
+Nitish Chandan is a seasoned trust and safety professional with expertise in product risk assessment, crisis response, and investigations. Working as a subject matter expert at Maltego, Nitish regularly conducts trainings for teams building capacity in risk assessment and fraud investigations.
+
+{{% /details %}}
+
 ### Understanding LLM Security: Red Teaming in the Age of AI
 
 *Friday, May 10, 2024 at 4:30pm* \
 *Y2E2 362*
 
-{{< figure src="flyers/2024-05-13-llm-security.png" width=500 >}}
+{{< figure src="flyers/2024-05-10-llm-security.png" width=500 >}}
 
 Join us to unlock the secrets behind hacking large language models.  Dive into the depths of how LLMs operate, their construction, and the pathways to exploiting their design, while exploring some of the strangest behaviors in all of computer science.  Discover how to protect your LLM enabled applications using cutting edge defensive techniques, and how you can leverage these techniques to make best use of LLMs in your daily life.
 
