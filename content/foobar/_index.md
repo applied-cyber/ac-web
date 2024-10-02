@@ -1,24 +1,24 @@
 ---
 title: Join Applied Cyber
 toc: false
+sidebar:
+  hide: true
 ---
 
 **Curious about cyber competitions and think you might have what it takes?**
 
-* Fill out this form! https://forms.gle/8A27LJkvQgJ4RbPK7
-* Then join our [Summer Competitions Jumpstart](https://join.slack.com/share/enQtNzIzMDIwOTExMzcyOS0zZmYxYzgxODNkYjk2MTYyZDYyMGYzM2M2YTgzMjVlYzNiMzAyNzFlYTk5NDBkNTExMjgxYjAzNTI2ZTM4ZGFh)!
+- Fill out this form! https://forms.gle/8A27LJkvQgJ4RbPK7
+- Then join our [Fall Competitions Jumpstart](https://join.slack.com/share/enQtNzIzMDIwOTExMzcyOS0zZmYxYzgxODNkYjk2MTYyZDYyMGYzM2M2YTgzMjVlYzNiMzAyNzFlYTk5NDBkNTExMjgxYjAzNTI2ZTM4ZGFh)!
 
 **Interested in joining the larger club? Check out the website and add yourself to the mailing list!**
 
-* https://applied-cyber.stanford.edu/
-* https://mailman.stanford.edu/mailman/listinfo/applied-cybersecurity
+- https://applied-cyber.stanford.edu/
+- https://mailman.stanford.edu/mailman/listinfo/applied-cybersecurity
 
 ## ETHICAL HACKING WORKSHOP
 
-*Friday, April 26, 2024 at 4:30pm* \
-*Y2E2 362*
-
-{{< figure src="/events/24spr/flyers/2024-04-26-intro-security-workshop.jpg" width=500 >}}
+_Friday, October 4, 2024 at 4:30pm_ \
+_Shriram 262_
 
 Join us to hack into a cat-themed startup that’s riddled with common vulnerabilities!
 You’ll learn how to defend against these attacks in your own projects and hear some war stories along the way.
