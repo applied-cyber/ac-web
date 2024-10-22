@@ -12,4 +12,4 @@ Roguespot is a distributed system for rogue wireless access point detection on c
 
 ## Stanford Security Clinic
 
-The [Stanford Security Clinic](https://securityclinic.org) offers *pro bono* digital security and safety consultations to the broader Stanford community. The Clinic is co-directed by Aditya Saligrama and Miles McCain. To get involved, message Aditya or Miles on Slack.
+The [Stanford Security Clinic](https://securityclinic.org) offers *pro bono* digital security and safety consultations to the broader Stanford community. The Clinic is co-directed by Aditya Saligrama and Joey Holtzman. To get involved, message Aditya or Joey on Slack.

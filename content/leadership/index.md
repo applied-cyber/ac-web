@@ -9,41 +9,35 @@ toc: false
 
 Aditya Saligrama is the President of Applied Cyber and a senior from the Boston area studying Computer Science on the systems track with interests in web, mobile, and cloud security, distributed systems, and open source software. He competes on the CCDC team as Linux & Cloud lead, helping bring home a National Championship in 2023, and leads web penetration testing on the CPTC team. Aditya also works with the Stanford entrepreneurial community to ensure that popular campus apps fulfill the data safety standards students trust them with. In his free time, Aditya enjoys hiking, photography, and ping pong.
 
-**Vice President**: [Cody Ho](https://github.com/aesrentai) (Slack @Cody Ho)
+**Vice President**: [Joey Holtzman](https://joeyholtzman.com) (Slack @Joey Holtzman)
 
-{{< figure src="headshots/ho.png" height=300 width=300 >}}
+{{< figure src="headshots/holtzman.jpg" height=300 width=300 >}}
 
-Cody Ho is the Vice President of Applied Cyber and a senior studying Symbolic Systems and Computer Science. Cody’s academic pursuits focus on the intersection of machine learning and cybersecurity, with extensive experience that spans AI safety and ethics, low level systems and networking, HPC workloads, and reverse engineering malware. Cody is a member of Applied Cyber's CCDC and CPTC teams focusing on Linux and Windows defense and automation.
+Joey Holtzman is a sophomore studying computer science with a focus on systems. He is the vice president of Applied Cyber and is on both the CPTC and CCDC teams. Additionally, he holds the OSCP certification and enjoys hacking and building open-source tools and scripts.
 
-**Financial Officer**: Yasmine Mitchell (Slack @Yasmine)
+**Financial Officer**: Jeremy Kim (Slack @Jeremy)
 
-{{< figure src="headshots/mitchell.png" height=300 width=300 >}}
+{{< figure src="headshots/kim.jpg" height=300 width=300 >}}
 
-Yasmine Mitchell is a senior at Stanford on the Computer Science Computer & Network Security track with an interest in cybersecurity, machine learning, and misinformation studies. She is currently serves as the AC Financial Officer and a member of Applied Cyber's CCDC and CPTC teams. Yasmine participates in disinformation research at the Stanford Internet Observatory, in addition to her work in STEM education as part of Inspirit AI’s high school Scholars program.
+**Competitions Lead**: Donovan Jasper (Slack @Donovan)
 
-**Competitions Lead**: Glen Husman (Slack @Glen Husman)
+{{< figure src="headshots/jasper.jpg" height=300 width=300 >}}
 
-{{< figure src="headshots/husman.png" height=300 width=300 >}}
+**Projects Lead**: Devin Fung (Slack @devin_ty_fung)
 
-Glen Husman is a CS major who likes to break things and have an over-complicated Linux setup. Writes software, hacks things, defends networks on fire, eats baked goods. AMA about baked goods, hiking, Linux, CS, and competitions! We're newbie-friendly!
+{{< figure src="headshots/fung.jpg" height=300 width=300 >}}
 
-**Projects Lead**: Nathan Bhak (Slack @Nathan Bhak)
+**Workshops Lead**: Billy Gao (Slack @Billy)
 
-{{< figure src="headshots/bhak.jpg" height=300 width=300 >}}
+{{< figure src="headshots/gao.jpg" height=300 width=300 >}}
 
-Nathan is a coterm from across the pond majoring in CS with a minor in classical languages. Outside of Applied Cyber, he’s played viola in SSO and currently does research with ESRG. His interests include security, networking, Latin literature, Rachmaninoff, and pretending to be a prospective student to take golf cart tours around campus.
+**Women in Applied Cyber Lead**: Ashley Dai (Slack @Ashley)
 
-**Workshops Lead**: Teddy Zhang (Slack @Teddy)
+{{< figure src="headshots/dai.jpg" height=300 width=300 >}}
 
-Teddy Zhang is the Workshops Lead for Applied Cyber and a junior at Stanford studying CS on the systems track. He has served as a TA for Hack Lab (INTLPOL 268), and also enjoys playing the bassoon.
+**External Communications Lead**: Rohan Movva (Slack @Rohan Movva)
 
-**Women in Applied Cyber Lead**: Jay Park (Slack @Jay)
-
-{{< figure src="headshots/park.png" height=300 width=300 >}}
-
-Jay Park is Applied Cyber's WAC lead and a senior at Stanford studying CS on the systems track.
-
-**External Communications Lead**: Zane St. John (Slack @Zane)
+{{< figure src="headshots/movva.jpg" height=300 width=300 >}}
 
 **Advisor & Coach**: Alex Keller (Slack @Alex Keller - SoE IT)
 
