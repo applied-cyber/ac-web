@@ -18,6 +18,13 @@ Up to 6 team members from the school roster may compete. The team roster can hav
 
 ## Team Rosters and Accomplishments
 
+### 2024-2025
+
+**Roster**: Ethan Ho, Joey Holtzman, Donovan Jasper (*captain*), Aditya Saligrama, Anna Wu, Arnold Yang, Ashley Dai (*alternate*).
+
+**Placements**:
+* **3rd place**, Western Regional CPTC, November 16-17, 2024.
+
 ### 2023-2024
 
 **Roster**: Paul Crews, Cody Ho, Glen Husman, Donovan Jasper, Yasmine Mitchell (*captain*), Aditya Saligrama, Ben Tripp, Brian Ni (*alternate*).

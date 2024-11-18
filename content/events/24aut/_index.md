@@ -3,6 +3,45 @@ title: Fall 2024
 weight: 99
 ---
 
+### Security at an Early-Stage Startup
+
+*Friday, November 8, 2024 at 4:30pm* \
+*Shriram 262*
+
+{{< figure src="flyers/2024-11-08-startup-security.png" width=500 >}}
+
+Early-stage startups have a unique opportunity to be secure by default. Startups should invest early in good security practices and hygiene, which are now more accessible and affordable than ever. It’s about selecting the right tools, making the right engineering decisions, and fostering a culture that prioritizes security from the start. Mokhtar discusses how this is implemented at his startup, Formal, and how other early-stage startups can do the same.
+
+{{% details title="Speaker: Mokhtar Bacha" closed="true" %}}
+
+[Mokhtar Bacha](https://linkedin.com/in/mokhtar-bacha) grew up in France. At 17, he was hired as the youngest employee at ConsenSys by Ethereum co-founder Joseph Lubin, where he developed expertise in cryptography, distributed systems, and cloud computing. He later joined Y Combinator, exploring various industries before founding Formal two years ago—a cybersecurity startup focused on enforcing least privilege at the packet level in data flows. [Formal](https://joinformal.com) is VC-backed and supports security engineering teams at companies like Notion, Ramp, and Gusto.
+
+{{% /details %}}
+
+### Hacking Your Pentesting Career
+
+*Friday, November 1, 2024 at 4:30pm* \
+*Shriram 262*
+
+{{< figure src="flyers/2024-11-01-hacking-pentesting-career.png" width=500 >}}
+
+{{% details title="Speaker: Phillip Wylie" closed="true" %}}
+
+Phillip is a passionate offensive security professional with over two decades of information technology and cybersecurity experience. His specialties include penetration testing and application security. When Phillip is not hacking, he is educating others about pentesting and web application pentesting at the college level and during workshops at conferences and other events. His passion for education and pentesting inspired him to found The Pwn School Project, an education-focused cybersecurity organization. Phillip coauthored the book, "The Pentester Blueprint: Starting a Career as an Ethical Hacker" based on his conference talk on starting a career as a pentester. Phillip's uncommon journey into the field of cybersecurity is preceded by his colorful past as a pro wrestler, where he once wrestled a bear.
+
+{{% /details %}}
+
+### Top Concerns with Vulnerability Data
+
+*Friday, October 25, 2024 at 4:30pm* \
+*Shriram 262*
+
+{{< figure src="flyers/2024-10-25-vuln-data.png" width=500 >}}
+
+The cybersecurity landscape relies on managing vulnerabilities, with systems like the Common Vulnerabilities and Exposures (CVE) and the Common Vulnerability Scoring System (CVSS) playing pivotal roles. However, these systems are increasingly struggling to handle the growing complexity and volume of vulnerabilities, as demonstrated by the 2024 halt in CVE publication by the National Vulnerability Database (NVD). This paper highlights the critical shortcomings in vulnerability data management, such as outdated information, limited context, and inefficiencies in scoring. It also explores potential solutions to improve how vulnerabilities are tracked, scored, and prioritized to meet the demands of modern cybersecurity.
+
+**Speakers**: Abhineeth Pasam and Ahaan Sinha
+
 ### Supply Chain Attacks
 
 *Friday, October 18, 2024 at 4:30pm* \
