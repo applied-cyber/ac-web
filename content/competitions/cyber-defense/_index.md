@@ -10,7 +10,7 @@ The [Collegiate Cyber Defense Competition](https://nationalccdc.org) is a blue t
 
 Each team is given the same initial configuration, which typically includes an even mix of Linux and Windows machines. In addition to securing the initial network, competitors complete tasks such as setting up new services, performing vulnerability assessment, or providing documentation of company security policies.
 
-Applied Cyber competes in the [Western Region](https://wrccdc.org) for CCDC, which organizes Invitational events in November and December, Qualifiers in February, and Regional Finals held in Anaheim in March or April. The top team from the Western Regional Finals advances to the National Finals, held in Texas in late April.
+Applied Cyber competes in the [Western Region](https://wrccdc.org) for CCDC, which organizes Invitational events from November through January, Qualifiers in February, and Regional Finals held in Anaheim in March or April. The top team from the Western Regional Finals advances to the National Finals, held in Texas in late April.
 
 ## Who can participate?
 
@@ -19,6 +19,9 @@ The Invitational events are open to anyone and there is no limit on the number o
 For all other events, up to 8 team members from the school roster may compete. The team roster can have up to 12 members and at most two of these can be graduate students.
 
 ## Team Rosters and Accomplishments
+
+### 2025
+**Roster**: Donovan Jasper (*captain*), Aditya Saligrama, Jeremy Kim, Joey Holtzman, Anna Wu, Ethan Ho, Arnold Yang, Rachel Fernandez, Seyma Kilic, Kyla Guru, Ashley Dai
 
 ### 2024
 
