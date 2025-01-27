@@ -27,10 +27,6 @@ Joey Holtzman is a sophomore studying computer science with a focus on systems. 
 
 {{< figure src="headshots/fung.jpg" height=300 width=300 >}}
 
-**Workshops Lead**: Billy Gao (Slack @Billy)
-
-{{< figure src="headshots/gao.jpg" height=300 width=300 >}}
-
 **Women in Applied Cyber Lead**: Ashley Dai (Slack @Ashley)
 
 {{< figure src="headshots/dai.jpg" height=300 width=300 >}}
