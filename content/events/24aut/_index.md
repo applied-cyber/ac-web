@@ -3,6 +3,16 @@ title: Fall 2024
 weight: 99
 ---
 
+### Origami Yoda & Darth Paper - A Tale of Two Targets
+*Friday, December 6, 2024 at 4:30pm* \
+*Shriram 262*
+
+{{< figure src="flyers/2024-12-06-origami-yoda-darth-paper.png" width=500 >}}
+
+Join us for a beginner friendly workshop hacking two targets with custom web applications with a bevy of vulnerabilities. Bring your laptop to join in the fun!
+
+**Speaker**: Nicholas Cronan
+
 ### Security at an Early-Stage Startup
 
 *Friday, November 8, 2024 at 4:30pm* \
@@ -55,7 +65,7 @@ Starting with my personal experiences in hacking smart vehicles, financial insti
 
 ### Message Authentication Codes Workshop
 
-*Friday, October 11 2024 at 4:30pm* \
+*Friday, October 11, 2024 at 4:30pm* \
 *Shriram 262*
 
 {{< figure src="flyers/2024-10-11-mac-workshop.png" width=500 >}}

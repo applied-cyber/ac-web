@@ -51,9 +51,9 @@ Alex’s 25 year career in the higher education technology sector brought him to
 *Friday, October 21, 2022 at 3:30pm* \
 *Y2E2 300*
 
-{{< figure src="flyers/20221021-levin.jpg" width=500 >}}
+{{< figure src="flyers/20221021-levin.png" width=500 >}}
 
-Ex-IDF hacker Mav Levin explains how to find undiscovered security weaknesses and exploit privilege escalation paths.
+Expert hacker Mav Levin explains how to find undiscovered security weaknesses and exploit privilege escalation paths.
 
 ### Intro to Security Workshop
 
