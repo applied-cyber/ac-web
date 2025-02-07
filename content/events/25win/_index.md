@@ -3,6 +3,19 @@ title: Winter 2025
 weight: 98
 ---
 
+### Showing the Receipts: Understanding the Modern Ransomware Ecosystem
+
+*Friday, February 7, 2025 at 4:30pm* \
+*Shriram 108*
+
+{{< figure src="flyers/2025-02-07-ransomware-jack-cable.png" width=500 >}}
+
+{{% details title="Speaker: Jack Cable" closed="true" %}}
+
+Jack is an exceptionally talented security practitioner with a wealth of experience to share, having worked everywhere from government to the private sector to the defense side. Most recently, he left his role as senior technical advisor at CISA to start his own company Corridor, which helps organizations perform AI-powered security refactors at scale.
+
+{{% /details %}}
+
 ### Hack the Box – Walkthrough and Teaching Workshop
 
 *Friday, January 24, 2025 at 4:30pm* \

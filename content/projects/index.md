@@ -7,7 +7,7 @@ aliases:
 ---
 
 ## Command and Control
-The goal of this project is to create a Command and Control (C2) implant and server equal to the best available APTs and Nation-State Actors using a variety of cutting edge techniques in low level systems. The project is led by Cody Ho. To get involved, message Cody (@Cody Ho) on Slack.
+The goal of this project is to create a Command and Control (C2) implant and server equal to the best available APTs and Nation-State Actors using a variety of cutting edge techniques in low level systems. The project is led by Cody Ho. To get involved, message Cody on Slack.
 
 ## Stanford Security Clinic
 
