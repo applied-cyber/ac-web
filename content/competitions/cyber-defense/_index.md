@@ -21,7 +21,11 @@ For all other events, up to 8 team members from the school roster may compete. T
 ## Team Rosters and Accomplishments
 
 ### 2025
-**Roster**: Donovan Jasper (*captain*), Aditya Saligrama, Jeremy Kim, Joey Holtzman, Anna Wu, Ethan Ho, Arnold Yang, Rachel Fernandez, Seyma Kilic, Kyla Guru, Ashley Dai.
+
+**Roster**: Rachel Fernandez, Ethan Ho, Joey Holtzman, Donovan Jasper (*captain*), Jeremy Kim, Aditya Saligrama, Anna Wu, Arnold Yang, Ashley Dai (*alternate*), Kyla Guru (*alternate*), Seyma Kilic (*alternate*).
+
+**Placements** (season ongoing):
+* **2nd place**, WRCCDC Qualifier, February 9, 2025.
 
 ### 2024
 
