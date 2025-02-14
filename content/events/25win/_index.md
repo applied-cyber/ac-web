@@ -3,6 +3,17 @@ title: Winter 2025
 weight: 98
 ---
 
+### Love, Lust, & Security in the Digital Domain
+
+*Friday, February 14, 2025 at 4:30pm* \
+*Shriram 108*
+
+{{< figure src="flyers/2025-02-14-round-robin-valentines.png" width=500 >}}
+
+Join us for a round-robin of lightning talks at the intersection of Valentine’s Day and Cybersecurity. From high-profile breaches to social engineering scams, we’ll uncover the risks hiding in your favorite romance platforms.
+
+**Speakers**: Ashley Dai, Joey Holtzman, Teddy Zhang, and Alex Keller
+
 ### Showing the Receipts: Understanding the Modern Ransomware Ecosystem
 
 *Friday, February 7, 2025 at 4:30pm* \
