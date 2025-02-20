@@ -3,6 +3,19 @@ title: Winter 2025
 weight: 98
 ---
 
+### WAC Fireside Chat with Audrey Adeline
+
+*Friday, February 21, 2025 at 4:30pm* \
+*Shriram 108*
+
+{{< figure src="flyers/2025-02-21-audrey-adeline-squarex.png" width=500 >}}
+
+{{% details title="Speaker: Audrey Adeline" closed="true" %}}
+
+Audrey is part of the Founder's Office at SquareX that is building the industry's first Browser Detection and Response (BDR) solution. Among other things, she is in charge of writing whitepapers and technical blogs for the product and attack research conducted at SquareX, including the Browser Syncjacking attack that was featured by Forbes, Bleeping Computer and Mashable recently. Previously, she was a software investor at Sequoia, where she worked with many founders in the cybersecurity space. She is currently writing a book on web security and is part of the HQ committee at Women in Security and Privacy (WISP).
+
+{{% /details %}}
+
 ### Love, Lust, & Security in the Digital Domain
 
 *Friday, February 14, 2025 at 4:30pm* \
