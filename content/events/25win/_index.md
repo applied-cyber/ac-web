@@ -3,6 +3,17 @@ title: Winter 2025
 weight: 98
 ---
 
+### Hacking Healthcare: Medical Device Vulnerabilities
+
+*Friday, February 28, 2025 at 4:30pm* \
+*Shriram 108*
+
+{{< figure src="flyers/2025-02-28-hacking-healthcare.png" width=500 >}}
+
+Join Applied Cyber as we explore the landscape of medical device vulnerabilities. We'll look into vulnerable devices, how they can be exploited, and how we can protect against these attacks.
+
+**Speaker**: Teddy Zhang
+
 ### WAC Fireside Chat with Audrey Adeline
 
 *Friday, February 21, 2025 at 4:30pm* \
