@@ -3,6 +3,21 @@ title: Winter 2025
 weight: 98
 ---
 
+### Leadership in Tech & Security with Tammy Schuring
+
+*Friday, March 7, 2025 at 4:30pm* \
+*Shriram 108*
+
+{{< figure src="flyers/2025-03-07-tammy-schuring.png" width=500 >}}
+
+{{% details title="Speaker: Tammy Schuring" closed="true" %}}
+
+Tammy is an accomplished cybersecurity and technology executive with over 30 years of experience leading high-growth initiatives in cybersecurity, AI, and enterprise technology. She has held executive roles including CEO and CRO positions in multiple start-up, high growth, and public companies focusing on go-to-market strategy, revenue growth, and leadership development. At Voltage Security, she brought Format Preserving Encryption (FPE) into the market, which led to the NIST standardization of the algorithm. She is known in the industry for scaling startups into market leaders and mentoring the next generation of cybersecurity entrepreneurs. She helped lead five technology start-ups from pre-revenue to compelling outcomes including one IPO and four acquisitions. As an advisor, investor, and board member she has helped dozens more reach new levels of growth.
+
+Beyond her corporate success, Tammy is passionate about lifting up women in cybersecurity, advocating for diversity, and mentoring future leaders in the field. She is currently working on a book that explores the realities of navigating leadership in cybersecurity and overcoming hurdles in the tech industry.
+
+{{% /details %}}
+
 ### Hacking Healthcare: Medical Device Vulnerabilities
 
 *Friday, February 28, 2025 at 4:30pm* \
