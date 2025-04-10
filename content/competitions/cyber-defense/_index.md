@@ -24,7 +24,8 @@ For all other events, up to 8 team members from the school roster may compete. T
 
 **Roster**: Rachel Fernandez, Ethan Ho, Joey Holtzman, Donovan Jasper (*captain*), Jeremy Kim, Aditya Saligrama, Anna Wu, Arnold Yang, Ashley Dai (*alternate*), Kyla Guru (*alternate*), Seyma Kilic (*alternate*).
 
-**Placements** (season ongoing):
+**Placements**:
+* **2nd place**, National CCDC Wildcard (Hivestorm), April 9, 2025.
 * **2nd place**, WRCCDC Regional Finals, March 28-30, 2025.
 * **2nd place**, WRCCDC Qualifier, February 8, 2025.
 
