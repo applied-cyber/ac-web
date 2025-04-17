@@ -3,6 +3,18 @@ title: Spring 2025
 weight: 97
 ---
 
+### Darth Paper Strikes Back
+
+*Friday, April 18, 2025 at 4:30pm* \
+*Y2E2 362*
+
+Applied Cyber welcomes special guest Nicholas Cronan for a beginner friendly workshop where
+you will attack a target host with custom web applications and a bevy of vulnerabilities.
+
+{{< figure src="flyers/2025-04-18-darth-paper-nicholas.png" width=500 >}}
+
+**Speaker**: Nicholas Cronan
+
 ### Breaking In: A Candid Talk on Physical Security
 
 *Friday, April 11, 2025 at 4:30pm* \
