@@ -3,6 +3,17 @@ title: Spring 2025
 weight: 97
 ---
 
+### Intro to Web Hacking (Admit Weekend Special)
+
+*Friday, April 25, 2025 at 4:30pm* \
+*Spilker 232*
+
+{{< figure src="flyers/2025-04-25-intro-hacking-admit-weekend.png" width=500 >}}
+
+Join us for an Admit Weekend special with a hands-on intro to web hacking using a fun, vulnerable cat website!
+
+**Speakers**: Applied Cyber Leadership
+
 ### Darth Paper Strikes Back
 
 *Friday, April 18, 2025 at 4:30pm* \
