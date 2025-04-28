@@ -6,6 +6,8 @@ width: wide
 
 Applied Cyber has competed in a variety of other competitions beyond CCDC and CPTC over the years.
 
+* **3rd place**, BSidesSF 2025 CTF, April 25-27, 2025.
+    - Team accomplishment, Ethan Ho, Joey Holtzman, Donovan Jasper, Jeremy Kim, Cooper de Nicola, Aditya Saligrama, Anna Wu.
 * **2nd place**, Hivestorm, October 16, 2024.
     - Roster: Ethan Ho (*captain*), Donovan Jasper, Seyma Kilic, Arnold Yang, Joey Holtzman (*alternate*).
 * **3rd place**, DEF CON 32 Crypto & Privacy Village Goldbug CTF, August 9-11, 2024.
