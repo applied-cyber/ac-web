@@ -3,6 +3,17 @@ title: Spring 2025
 weight: 97
 ---
 
+### Intro to Capture the Flag (CTF) Workshop
+
+*Friday, May 2, 2025 at 4:30pm* \
+*Y2E2 362*
+
+{{< figure src="flyers/2025-05-02-intro-ctf-workshop.png" width=500 >}}
+
+Join us for a hands-on Intro to Capture the Flag (CTF) workshop with real beginner-friendly challenges. Free boba included!
+
+**Speaker**: Ethan Ho
+
 ### Intro to Web Hacking (Admit Weekend Special)
 
 *Friday, April 25, 2025 at 4:30pm* \
@@ -12,7 +23,11 @@ weight: 97
 
 Join us for an Admit Weekend special with a hands-on intro to web hacking using a fun, vulnerable cat website!
 
-**Speakers**: Applied Cyber Leadership
+{{% details title="Speaker: Joey Holtzman" closed="true" %}}
+
+Joey Holtzman is a sophomore studying computer science with a focus on systems. He is the president of Applied Cyber and is on both the CPTC and CCDC teams. Additionally, he holds the OSCP certification and enjoys hacking and building open-source tools and scripts.
+
+{{% /details %}}
 
 ### Darth Paper Strikes Back
 
