@@ -15,4 +15,4 @@ The [Stanford Security Clinic](https://securityclinic.org) offers *pro bono* dig
 
 ## Roguespot
 
-Roguespot is a distributed system for rogue wireless access point detection on campus. The project was originally started by Nathan Bhak and is now led by Joey Holtzman. To get involved, message Joey on Slack or join the `#roguespot` channel.
+Roguespot is a distributed system for rogue wireless access point detection on campus. The project was originally started by Nathan Bhak, and is now led by Joey Holtzman. To get involved, message Joey on Slack or join the `#roguespot` channel.
