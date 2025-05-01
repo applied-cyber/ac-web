@@ -23,13 +23,12 @@ Some things we've built that you might find useful:
 ## Stanford resources
 
 * [Stanford Cyber Policy Center](https://cyber.fsi.stanford.edu)
-* [Stanford Internet Observatory](https://io.stanford.edu)
 * [Stanford Security Seminar Series](http://crypto.stanford.edu/seclab/sem.html)
 * [Stanford Security Lunch](https://securitylunch.stanford.edu/)
 
 ### Security courses at Stanford
 
-* \* INTLPOL 268 *Hack Lab: Introduction to Cybersecurity* (typically fall) is an introductory cyber security, law, and policy course. Hack Lab teaches the basics of a number of different types of security exploits, including web attacks and defenses, operating system attacks such as EternalBlue, Firebase, and phishing and social engineering, as well as the legal ramifications of such attacks. There are no prerequisites and no computer science background assumed. 
+* \* INTLPOL 268 *Hack Lab: Introduction to Cybersecurity* (typically fall) is an introductory cyber security, law, and policy course. Hack Lab teaches the basics of a number of different types of security exploits, including web attacks and defenses, operating system attacks such as EternalBlue, Firebase, and phishing and social engineering, as well as the legal ramifications of such attacks. There are no prerequisites and no computer science background assumed.
 * \* [CS 155](https://cs155.stanford.edu) *Computer and Network Security* (typically spring) is the main, more technically involved security course at Stanford. The three main components of the course are memory safety and control hijacking, web attacks and defenses, and network security. The prerequisite is an operating systems class such as CS111.
 * \* [CS 153](https://cs153.stanford.edu) *Applied Security at Scale* is a course that deals with the unique challenges of solving security problems at industry scale and brings a number of renowned guest speakers to campus. Past speakers have included Matthew Prince (CEO of Cloudflare), Steve Huffman (CEO of Reddit), and Greg Brockman (cofounder of OpenAI).
 * \* [CS 255](https://cs255.stanford.edu) *Introduction to Cryptography* (typically winter) covers the theory and practice of modern cryptographic techniques for computer security, including symmetric and asymmetric encryption, digital signatures, authentication, and key management. The prerequisite is an introductory probability class such as CS109.
