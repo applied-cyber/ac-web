@@ -27,7 +27,7 @@ To join, sign up for our
 
 - `#projects`: General updates related to all projects.
 - `#roguespot`: Information about our project to create a distributed system to identify rogue access points on campus.
-- `#security-clinic`: *Pro bono* security advice for the Stanford community. This is a private channel; to join, please message Aditya Saligrama or Miles McCain.
+- `#security-clinic`: *Pro bono* security advice for the Stanford community. This is a private channel; to join, please message Joey Holtzman.
 
 ### Competitions
 

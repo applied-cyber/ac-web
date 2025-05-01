@@ -11,7 +11,7 @@ The goal of this project is to create a Command and Control (C2) implant and ser
 
 ## Stanford Security Clinic
 
-The [Stanford Security Clinic](https://securityclinic.org) offers *pro bono* digital security and safety consultations to the broader Stanford community. The Clinic is co-directed by Aditya Saligrama and Joey Holtzman. To get involved, message Aditya or Joey on Slack.
+The [Stanford Security Clinic](https://securityclinic.org) offers *pro bono* digital security and safety consultations to the broader Stanford community. The Clinic was started by Aditya Saligrama and Miles McCain, and is now directed by Joey Holtzman. To get involved, message Joey on Slack.
 
 ## Roguespot
 
