@@ -3,6 +3,19 @@ title: Spring 2025
 weight: 97
 ---
 
+### Public-Private Sector Partnership in Cybersecurity: A Discussion with Alum Jim Richberg
+
+*Friday, May 9, 2025 at 4:30pm* \
+*Spilker 232*
+
+{{< figure src="flyers/2025-05-09-jim-richberg-fortinet.png" width=500 >}}
+
+Applied Cyber welcomes Jim Richberg, a Stanford alum and current Head of Cyber Policy & Global Field
+CISO at Fortinet, as he draws on his extensive experience to discuss the importance of
+public-private partnerships in cybersecurity.
+
+**Speaker**: Jim Richberg
+
 ### Intro to Capture the Flag (CTF) Workshop
 
 *Friday, May 2, 2025 at 4:30pm* \
