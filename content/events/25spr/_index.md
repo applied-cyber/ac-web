@@ -3,6 +3,32 @@ title: Spring 2025
 weight: 97
 ---
 
+### Monitoring and Constraining the Bananas VS Code SSH Age
+
+*Friday, May 16, 2025 at 4:30pm* \
+*Y2E2 362*
+
+{{< figure src="flyers/2025-05-16-vs-code-ssh-agent.png" width=500 >}}
+
+Join us for a deep dive with Aditya Saligrama, Senior Software Engineer at Formal and former
+President of Stanford Applied Cyber, on how to reverse-engineer and constrain the powerful agent
+behind VS Code’s Remote SSH — and what it means for system security.
+
+{{% details title="Speaker: Aditya Saligrama" closed="true" %}}
+
+Aditya Saligrama is the former President of Applied Cyber and a recent graduate from the Boston area
+where he studied Computer Science on the systems track with interests in web, mobile, and cloud
+security, distributed systems, and open source software. He currently works as Senior Software
+Engineer at Formal.
+
+He has competed on the CCDC team as Linux & Cloud lead, helping bring home a National Championship
+in 2023, and led web penetration testing on the CPTC team, helping the team place 2nd globally in
+2024. Aditya also taught CS 40 Cloud Infrastructure and Scalable Application Deployment and was a
+Course Assistant for CS 155 Computer and Network Security.
+
+{{% /details %}}
+
+
 ### Public-Private Sector Partnership in Cybersecurity: A Discussion with Alum Jim Richberg
 
 *Friday, May 9, 2025 at 4:30pm* \
