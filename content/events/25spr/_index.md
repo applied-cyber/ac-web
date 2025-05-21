@@ -3,6 +3,15 @@ title: Spring 2025
 weight: 97
 ---
 
+### Shells, Satellites, & Security - A Discussion with Red Team Ambassador Kaitlyn Handelman
+
+*Friday, May 23, 2025 at 4:30pm* \
+*Spilker 232*
+
+{{< figure src="flyers/2025-05-23-shells-satellites-security.png" width=500 >}}
+
+**Speaker**: Kaitlyn Handelman
+
 ### Monitoring and Constraining the Bananas VS Code SSH Age
 
 *Friday, May 16, 2025 at 4:30pm* \
@@ -27,7 +36,6 @@ in 2023, and led web penetration testing on the CPTC team, helping the team plac
 Course Assistant for CS 155 Computer and Network Security.
 
 {{% /details %}}
-
 
 ### Public-Private Sector Partnership in Cybersecurity: A Discussion with Alum Jim Richberg
 
