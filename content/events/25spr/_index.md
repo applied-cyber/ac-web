@@ -3,6 +3,13 @@ title: Spring 2025
 weight: 97
 ---
 
+### Get Your Freq On: Radio Hack Session
+
+*Friday, June 6, 2025 at 4:30pm* \
+*Y2E2 362*
+
+{{< figure src="flyers/2025-06-06-radio-hack-session.png" width=500 >}}
+
 ### Shells, Satellites, & Security - A Discussion with Red Team Ambassador Kaitlyn Handelman
 
 *Friday, May 23, 2025 at 4:30pm* \
