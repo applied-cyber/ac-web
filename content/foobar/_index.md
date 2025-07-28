@@ -1,7 +1,12 @@
 ---
 title: Join Applied Cyber
 toc: false
+# Don't show this page in the search results
+excludeSearch: true
 sidebar:
+  # Don't show this page in the sidebar
+  exclude: true
+  # Don't show the sidebar on this page
   hide: true
 ---
 
