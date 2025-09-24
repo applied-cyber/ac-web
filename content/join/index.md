@@ -33,7 +33,7 @@ To join, sign up for our
 
 * `#competitions`: Start here for competition info.
 * `#ctf`: Capture the Flag updates.
-* `#winter-jumpstart`: Self-paced training camp for those interested in advancing their cybersecurity skills with a focus on attack/defense.
+* `#jumpstart`: Self-paced training camp for those interested in advancing their cybersecurity skills with a focus on attack/defense.
 
 ### Women in Applied Cyber (WAC)
 
