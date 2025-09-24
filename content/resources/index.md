@@ -9,7 +9,7 @@ This page contains links to helpful or educational resources relating to the clu
 
 * Our [GitHub](https://github.com/applied-cyber) hosts public code for projects and competitions. Any contributions are welcome!
 * Join our [Slack](https://appliedcybersecurity.slack.com) to discuss club events and computer security in general!
-* Our [Applied Cyber jumpstart document](https://docs.google.com/document/d/1mD0JJLc9lQPDd5Fi1Ptq0l1hOTfUBSZR99hO3twR4sA/) for attack/defense (Stanford access only)
+* Check out the [Applied Cyber jumpstart document](https://docs.google.com/document/d/1mD0JJLc9lQPDd5Fi1Ptq0l1hOTfUBSZR99hO3twR4sA/) for attack/defense (Stanford access only)
 
 ### Development
 
