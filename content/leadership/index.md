@@ -7,23 +7,21 @@ toc: false
 
 {{< figure src="headshots/holtzman.jpg" height=300 width=300 >}}
 
-Joey Holtzman is a sophomore studying computer science with a focus on systems. He is the president of Applied Cyber and is on both the CPTC and CCDC teams. Additionally, he holds the OSCP certification and enjoys hacking and building open-source tools and scripts.
+Joey Holtzman is a junior studying computer science with a focus on systems. He is the president of Applied Cyber and is on both the CPTC and CCDC teams. Additionally, he has previously worked as a security engineer at Praetorian and holds the OSCP certification. Outside of security, Joey likes to jump rope, go on bike rides, and hike.
 
-**Financial Officer**: Jeremy Kim (Slack @Jeremy)
+**Vice President**: Ashley Dai (Slack @Ashley)
 
-{{< figure src="headshots/kim.jpg" height=300 width=300 >}}
+{{< figure src="headshots/dai.jpg" height=300 width=300 >}}
+
+Ashley is a Coterm student in Computer Science with a concentration in computer and network security. She is the Vice President of Applied Cyber and has previously served as the Women in Applied Cyber lead. Ashley has worked with companies including Box, the Stanford Internet Observatory, and SquareX, and is a DEF CON Black Badge recipient. In her free time, she enjoys hacking, building software for social connection, playing volleyball, dancing, and solving logic puzzles.
+
+**Financial Officer**: Arnold Yang (Slack @Arnold Yang)
+
+{{< figure src="headshots/yang.png" height=300 width=300 >}}
 
 **Competitions Lead**: Donovan Jasper (Slack @Donovan)
 
 {{< figure src="headshots/jasper.jpg" height=300 width=300 >}}
-
-**Projects Lead**: Devin Fung (Slack @devin_ty_fung)
-
-{{< figure src="headshots/fung.jpg" height=300 width=300 >}}
-
-**Women in Applied Cyber Lead**: Ashley Dai (Slack @Ashley)
-
-{{< figure src="headshots/dai.jpg" height=300 width=300 >}}
 
 **External Communications Lead**: Rohan Movva (Slack @Rohan Movva)
 
