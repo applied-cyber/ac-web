@@ -10,17 +10,17 @@ sidebar:
   hide: true
 ---
 
+**Interested in joining the club? Check out the website, join the Slack, and add yourself to the mailing list!**
+
+- Website: https://applied-cyber.stanford.edu/
+- Slack: https://appliedcybersecurity.slack.com
+- Mailing List: https://mailman.stanford.edu/mailman/listinfo/applied-cybersecurity
+
 **Curious about cyber competitions and think you might have what it takes?**
 
 - Fill out this form! https://forms.gle/8A27LJkvQgJ4RbPK7
 
-<!-- Removed for Admit Weekend. Will put back for the fall quarter. -->
-<!-- - Then join our [Fall Competitions Jumpstart](https://join.slack.com/share/enQtNzIzMDIwOTExMzcyOS0zZmYxYzgxODNkYjk2MTYyZDYyMGYzM2M2YTgzMjVlYzNiMzAyNzFlYTk5NDBkNTExMjgxYjAzNTI2ZTM4ZGFh)! -->
-
-**Interested in joining the larger club? Check out the website and add yourself to the mailing list!**
-
-- https://applied-cyber.stanford.edu/
-- https://mailman.stanford.edu/mailman/listinfo/applied-cybersecurity
+- Then join our [Fall Competitions Jumpstart](https://join.slack.com/share/enQtNzIzMDIwOTExMzcyOS0zZmYxYzgxODNkYjk2MTYyZDYyMGYzM2M2YTgzMjVlYzNiMzAyNzFlYTk5NDBkNTExMjgxYjAzNTI2ZTM4ZGFh)!
 
 ## ETHICAL HACKING WORKSHOP
 
