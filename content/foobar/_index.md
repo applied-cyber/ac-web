@@ -24,8 +24,8 @@ sidebar:
 
 ## ETHICAL HACKING WORKSHOP
 
-_Friday, April 25, 2025 at 4:30pm_ \
-_Spilker 232_
+_Friday, October 3, 2025 at 4:30pm_ \
+_Shriram 108_
 
 Join us to hack into a cat-themed startup that’s riddled with common vulnerabilities!
 You’ll learn how to defend against these attacks in your own projects and hear some war stories along the way.
