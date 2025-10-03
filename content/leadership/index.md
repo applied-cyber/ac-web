@@ -23,6 +23,10 @@ Ashley is a Coterm student in Computer Science with a concentration in computer 
 
 {{< figure src="headshots/jasper.jpg" height=300 width=300 >}}
 
+**Women in Applied Cyber Lead**: Tara Dixit (Slack @Tara Dixit)
+
+{{< figure src="headshots/dixit.png" height=300 width=300 >}}
+
 **External Communications Lead**: Rohan Movva (Slack @Rohan Movva)
 
 {{< figure src="headshots/movva.jpg" height=300 width=300 >}}
