@@ -3,6 +3,22 @@ title: Fall 2025
 weight: 96
 ---
 
+### Case Study of Cyber Criminals Targeting Stanford
+
+*Friday, October 10, 2025 at 4:30pm* \
+*Shriram 108*
+
+Join us for a whirlwind tour of recent attacks against the University, exploring the diverse
+motivations and tactics of the threat actors who seek to do us harm. From the mundane to the
+obtuse, this session promises to open your eyes to the underbelly of the internet and arm the
+defender with improved situational awareness.
+
+{{% details title="Speaker: Alex Keller" closed="true" %}}
+
+Alex Keller is a Sr. Systems Security Engineer at the Stanford School of Engineering, co-founder of the Stanford CERT (Computer Emergency Response Team), and has served as coach and advisor to the Applied Cyber student group since inception in 2015.
+
+{{% /details %}}
+
 ### Intro to Web Hacking Workshop
 
 *Friday, October 3, 2025 at 4:30pm* \
