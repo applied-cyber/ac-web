@@ -3,6 +3,15 @@ title: Fall 2025
 weight: 96
 ---
 
+### The Future of Warfare: Innovation, Iteration, and Acquisition at Speed with Kateryna Bondar
+
+*Thursday, October 16, 2025 at 4:00pm* \
+*Shriram 108*
+
+{{< figure src="flyers/2025-10-16-future-of-warfare-kateryna-bondar.png" width=500 >}}
+
+**Speaker**: Kateryna Bondar
+
 ### Case Study of Cyber Criminals Targeting Stanford
 
 *Friday, October 10, 2025 at 4:30pm* \
