@@ -3,6 +3,23 @@ title: Fall 2025
 weight: 96
 ---
 
+### AI Meets Cyber Defense: A Fireside Chat with Vineet Edupuganti on the Future of Autonomous Security
+
+*Friday, October 31, 2025 at 4:30pm* \
+*Shriram 108*
+
+Join us this Friday for a fireside chat with Vineet Edupuganti, Co-Founder and CEO of Cogent Security, as we explore the future of AI in cyber defense. It's Halloween--costumes are encouraged!
+
+{{< figure src="flyers/2025-10-31-cogent-fireside-chat.png" width=500 >}}
+
+{{% details title="Speaker: Vineet Edupuganti" closed="true" %}}
+
+Vineet Edupuganti is a Stanford alum, who previously led Product at Abnormal AI and is currently the
+Co-Founder/CEO of Cogent Security. Cogent is the first "AI Taskforce" for Vulnerability Management
+that autonomously remediates critical exposures before attackers can get to them.
+
+{{% /details %}}
+
 ### The Future of Warfare: Innovation, Iteration, and Acquisition at Speed with Kateryna Bondar
 
 *Thursday, October 16, 2025 at 4:00pm* \
