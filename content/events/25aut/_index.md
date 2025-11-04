@@ -3,6 +3,17 @@ title: Fall 2025
 weight: 96
 ---
 
+### Inside Censys: Mapping the Internet for Cyber Defense
+
+*Friday, November 7, 2025 at 4:30pm* \
+*Shriram 108*
+
+Join Aidan Holland, Senior Security Researcher at Censys, for a deep dive into how Censys maps the global Internet to uncover vulnerabilities and power cutting-edge cybersecurity research. He’ll unpack how Censys collects and analyzes Internet-wide data, share real-world stories from his work in malware analysis and threat hunting, and offer a look inside the daily life of a cybersecurity researcher.
+
+{{< figure src="flyers/2025-11-7-aidan-holland-censys.png" width=500 >}}
+
+**Speaker**: Aidan Holland
+
 ### AI Meets Cyber Defense: A Fireside Chat with Vineet Edupuganti on the Future of Autonomous Security
 
 *Friday, October 31, 2025 at 4:30pm* \
