@@ -18,6 +18,13 @@ Up to 6 team members from the school roster may compete. The team roster can hav
 
 ## Team Rosters and Accomplishments
 
+### 2025-2026 (ongoing)
+
+**Roster**: Ethan Ho, Joey Holtzman, Donovan Jasper (*captain*), Rachel Fernandez, Anna Wu, Arnold Yang, Ashley Dai (*alternate*), Seyma Kilic (*alternate*).
+
+**Placements**:
+* **1st place**, Western Regional CPTC, November 8-9, 2025.
+
 ### 2024-2025
 
 **Roster**: Ethan Ho, Joey Holtzman, Donovan Jasper (*captain*), Aditya Saligrama, Anna Wu, Arnold Yang, Ashley Dai (*alternate*).
