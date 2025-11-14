@@ -3,6 +3,21 @@ title: Fall 2025
 weight: 96
 ---
 
+### The Power of Open Eyes: OSINT & AI in Times of Global Conflict
+
+*Friday, November 14, 2025 at 4:30pm* \
+*Shriram 108*
+
+Open-Source Intelligence (OSINT), combined with Artificial Intelligence (AI), is revolutionizing modern warfare by piercing the fog of war and providing actionable insights. For Ukraine, OSINT has enabled anticipatory intelligence, situational awareness, and strategic decision-making on the battlefield. This presentation examines OSINT applications in the Ukraine war, including the ability to detect emerging conflicts, troop tracking and targeting, crowdsourcing, war-crime verification, and AI-assisted fact-checking and debunking.
+
+{{< figure src="flyers/2025-11-14-nelia-lanets-osint.png" width=500 >}}
+
+{{% details title="Speaker: Nelia Lanets" closed="true" %}}
+
+Nelia Lanets is a member of Stanford University IT team with a strong passion for cybersecurity. She joined the Stanford Applied Cyber community in 2024 where she continues to expand her skills and knowledge. Originally from Ukraine, Nelia earned her graduate and postgraduate degrees in Social Sciences. She also holds the CompTIA Security+ certification and is currently pursuing the CISSP credential. Outside of her professional work, Nelia volunteers with Pocket Security, a nonprofit organization that provides cybersecurity assessments and GRC support to nonprofits across the United States.
+
+{{% /details %}}
+
 ### Inside Censys: Mapping the Internet for Cyber Defense
 
 *Friday, November 7, 2025 at 4:30pm* \
