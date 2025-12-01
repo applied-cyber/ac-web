@@ -3,6 +3,17 @@ title: Fall 2025
 weight: 96
 ---
 
+### Journey & Insights - Fireside Chat with Serial Entrepreneur Rahul Kashyap
+
+*Wednesday, December 3, 2025 at 4:30pm* \
+*Shriram 108*
+
+Rahul Kashyap is a well known 3rd time cybersecurity founder who has worked in the industry for the last 25 years. Over this time, he founded Awake Security (Acq. Arista Networks), a network detection and response solution, and E8 Security (acq. VMware) in the behavioral threat detection space. He also served in important roles at foundational security companies over the years: Recently as the VP/GM and CISO at Arista Networks, CTO at Cylance, Chief Security Architect at Bromium (Acq. HP), and Head of Vulnerability Research at McAfee. Most recently, he left Arista to start another exciting journey as a founder, this time related to endpoint security. Through his wide range of experiences, he is incredibly knowledgeable in all things cyber, and will be sharing with us parts of his journey, learnings, and his new company.
+
+{{< figure src="flyers/2025-12-03-fireside-chat-rahul-kashyap.png" width=500 >}}
+
+**Speaker**: Rahul Kashyap
+
 ### The Power of Open Eyes: OSINT & AI in Times of Global Conflict
 
 *Friday, November 14, 2025 at 4:30pm* \
