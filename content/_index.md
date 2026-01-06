@@ -9,7 +9,7 @@ aliases:
 
 {{< figure src="/cover-photo.jpg" >}}
 
-**Autumn 2025 Meetings**: Fridays 4:30pm-5:30pm, [Shriram 108](https://campus-map.stanford.edu/?srch=Shriram), unless otherwise noted. See [event schedule](https://docs.google.com/spreadsheets/d/1BRya2g0tXbu1OQDVHjcpaixstF0pof3E1WKAKlbYOjU/).
+**Winter 2026 Meetings**: Fridays 4:30pm-5:30pm, [Shriram 108](https://campus-map.stanford.edu/?srch=Shriram), unless otherwise noted. See [event schedule](https://docs.google.com/spreadsheets/d/1BRya2g0tXbu1OQDVHjcpaixstF0pof3E1WKAKlbYOjU/).
 
 Applied Cyber is focused on teaching students practical skills in analyzing, exploiting, and defending computer systems. We host a number of events and workshops open to the general Stanford community that range from introductory to more technical.
 
