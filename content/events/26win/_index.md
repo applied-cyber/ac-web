@@ -3,6 +3,17 @@ title: Winter 2026
 weight: 95
 ---
 
+### :honey_pot: Honeypot Dreams & Stranger Things :bee:
+
+*Friday, January 23, 2026 at 4:30pm* \
+*Shriram 108*
+
+This presentation shares the hands-on experience of a cohort from the Stanford IT Experiential Development Program in deploying and operating honeypots using open-source infrastructure and software. We will walk through the operational decisions involved -- including design, tooling, and security considerations. This session will also highlight attacker behaviors observed in the wild, including the techniques and motivations of the adversaries. Attendees will have a chance to attack the honeypots during the session.
+
+{{< figure src="flyers/2026-01-23-honeypot-dreams-stranger-things.png" width=500 >}}
+
+**Speakers**: Xavier Jimenez, Nelia Lanets, and Alex Keller
+
 ### Reversing Everything with Claude Code
 
 *Friday, January 16, 2026 at 4:30pm* \

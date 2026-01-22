@@ -17,6 +17,9 @@ markup:
   highlight:
     noClasses: false
 
+# Render emojis from shortcodes (:emoji:)
+enableEmoji: true
+
 menu:
   main:
     - name: Home
