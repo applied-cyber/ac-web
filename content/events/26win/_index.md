@@ -3,6 +3,15 @@ title: Winter 2026
 weight: 95
 ---
 
+### WiCS x Women in Applied Cyber Meeting
+
+*Thursday, January 29, 2026 at 4:00pm* \
+*Women's Community Center*
+
+Join us this Thursday for a Women in Applied Cyber (WAC) meeting co-hosted with Women in Computer Science (WiCS)! Food will be provided, and there will be a mixer following a short presentation. We hope to see you there!
+
+{{< figure src="flyers/2026-01-29-wac-x-wics.jpg" width=500 >}}
+
 ### :honey_pot: Honeypot Dreams & Stranger Things :bee:
 
 *Friday, January 23, 2026 at 4:30pm* \
