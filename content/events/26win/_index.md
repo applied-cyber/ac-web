@@ -3,6 +3,19 @@ title: Winter 2026
 weight: 95
 ---
 
+### Software Security in the Vibe Coding Era
+
+*Friday, January 30, 2026 at 4:30pm* \
+*Shriram 108*
+
+{{< figure src="flyers/2026-01-30-varun-badhwar-vibe-coding.png" width=500 >}}
+
+{{% details title="Speaker: Varun Badhwar" closed="true" %}}
+
+Varun Badhwar is a three-time cyber security founder and CEO of Endor Labs, focused on securing the software supply chain. Previously, he founded RedLock (acquired by Palo Alto Networks), where he built Prisma Cloud to $300M+ ARR in 3 years. He has also founded CipherCloud, led platform security at Salesforce, and advised Fortune 500s at KPMG.
+
+{{% /details %}}
+
 ### WiCS x Women in Applied Cyber Meeting
 
 *Thursday, January 29, 2026 at 4:00pm* \
