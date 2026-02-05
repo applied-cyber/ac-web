@@ -3,6 +3,21 @@ title: Winter 2026
 weight: 95
 ---
 
+### Show and Tell of Real Application Security Flaws Found in Top Companies
+
+*Friday, February 6, 2026 at 4:30pm* \
+*Shriram 108*
+
+Join us for a real-world deep dive into application security with Rotem Bar, a bug bounty hunter and security researcher who works full-time at Palo Alto Networks. In this show-and-tell session, Rotem will walk through real application security vulnerabilities he has personally discovered in major global companies, explaining how they were found, why they mattered, and what developers and security teams can learn from them.
+
+{{< figure src="flyers/2026-02-06-rotem-bar-show-and-tell.png" width=500 >}}
+
+{{% details title="Speaker: Rotem Bar" closed="true" %}}
+
+Rotem Bar is a bug bounty hunter and researcher. He currently hacks full time at Palo Alto Networks. In his free time, he hacks and finds vulnerabilities in top companies worldwide.
+
+{{% /details %}}
+
 ### Software Security in the Vibe Coding Era
 
 *Friday, January 30, 2026 at 4:30pm* \
