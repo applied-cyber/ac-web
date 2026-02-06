@@ -26,6 +26,7 @@ Some things we've built that you might find useful:
 * [Stanford Cyber Policy Center](https://cyber.fsi.stanford.edu)
 * [Stanford Security Seminar Series](http://crypto.stanford.edu/seclab/sem.html)
 * [Stanford Security Lunch](https://securitylunch.stanford.edu/)
+* [Stanford Online Advanced Cybersecurity Program](https://online.stanford.edu/programs/advanced-cybersecurity-program)
 
 ### Security courses at Stanford
 
