@@ -4,7 +4,7 @@ toc: false
 width: wide
 ---
 
-{{< figure src="team-photo-2024.jpg" >}}
+{{< figure src="team-photo-2026.jpg" >}}
 
 The [Collegiate Penetration Testing Competition](https://cp.tc) is a red team competition which simulates a professional penetration test. Students act as security engineers tasked with identifying, exploiting, and reporting vulnerabilities in a fictional company infrastructure. The competition not only emphasizes technical prowess and familiarity with a variety of industry tools, but also the ability to communicate risk and promote plans of action to both corporate leadership and fellow engineers.
 
@@ -18,7 +18,7 @@ Up to 6 team members from the school roster may compete. The team roster can hav
 
 ## Team Rosters and Accomplishments
 
-### 2025-2026 (ongoing)
+### 2025-2026
 
 **Roster**: Ethan Ho, Joey Holtzman, Donovan Jasper (*captain*), Rachel Fernandez, Anna Wu, Arnold Yang, Ashley Dai (*alternate*), Seyma Kilic (*alternate*).
 
