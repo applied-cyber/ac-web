@@ -1,7 +1,6 @@
 ---
 title: Penetration Testing
 toc: false
-width: wide
 ---
 
 {{< figure src="team-photo-2026.jpg" >}}

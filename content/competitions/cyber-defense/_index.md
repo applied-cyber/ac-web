@@ -1,7 +1,6 @@
 ---
 title: Cyber Defense
 toc: false
-width: wide
 ---
 
 {{< figure src="team-photo-2023.jpg" >}}

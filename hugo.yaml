@@ -43,6 +43,11 @@ menu:
     - name: Join
       pageRef: /join
       weight: 7
+    - name: Theme
+      weight: 100
+      params:
+        type: theme-toggle
+        label: false
 
 params:
   navbar:

@@ -1,7 +1,6 @@
 ---
 title: Team Accomplishments (misc)
 toc: false
-width: wide
 ---
 
 Applied Cyber has competed in a variety of other competitions beyond CCDC and CPTC over the years.

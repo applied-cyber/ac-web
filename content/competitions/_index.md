@@ -1,7 +1,6 @@
 ---
 title: Competitions
 toc: false
-width: wide
 aliases:
     - /teams
     - /teams/ctf
