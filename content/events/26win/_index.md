@@ -3,6 +3,21 @@ title: Winter 2026
 weight: 95
 ---
 
+### From Logs to Language: Using Encoder-Decoder Architectures to Translate Cyber Threats
+
+*Friday, February 20, 2026 at 4:30pm* \
+*Shriram 108*
+
+Join us for a deep dive into how modern ML architectures can turn noisy security telemetry into clear, human-readable threat narratives with Josiah Lashley, founding AI engineer at DeepTempo. Josiah will walk through an encoder–decoder style approach where the encoder learns structured representations of attacker behavior from high-volume data (e.g., netflow, WAF logs, cloud events) and the decoder translates those representations into investigative context—timelines, explanations, and stories SOC teams can act on.
+
+{{< figure src="flyers/2026-02-20-logs-to-language-deeptempo.png" width=500 >}}
+
+{{% details title="Speaker: Josiah Lashley" closed="true" %}}
+
+Josiah Lashley is a founding AI engineer at DeepTempo and has been working in the field of cybersecurity with a focus on data science and statistical applications. His work centers on building intelligence pipelines that transform large scale telemetry such as NetFlow, WAF logs, and cloud events into structured representations that power modern detection and response systems. He specializes in model centric security architectures that integrate machine learning with operational SOC workflows.
+
+{{% /details %}}
+
 ### Show and Tell of Real Application Security Flaws Found in Top Companies
 
 *Friday, February 6, 2026 at 4:30pm* \
