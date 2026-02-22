@@ -122,3 +122,12 @@ h5 {
 .dark .hextra-card {
     background-color: #1A2128;
 }
+
+/* Hextra v0.10+ renders child pages in the mobile hamburger/sidebar menu. Hide nested levels on
+ * mobile so it is consistent with desktop. */
+@media (max-width: 767px) {
+    .hextra-sidebar-container .hextra-sidebar-children,
+    .hextra-sidebar-container .hextra-sidebar-collapsible-button {
+        display: none;
+    }
+}
