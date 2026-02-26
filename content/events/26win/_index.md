@@ -3,6 +3,21 @@ title: Winter 2026
 weight: 95
 ---
 
+### Using Proxies to Hide Secrets from Claude Code
+
+*Friday, February 27, 2026 at 4:30pm* \
+*Shriram 108*
+
+Join us for a discussion with Drew Gregory from Formal (Stanford alum!) on how to stay safe in the age of agentic coding.
+
+{{< figure src="flyers/2026-02-27-proxy-claude-code-secrets.png" width=500 >}}
+
+{{% details title="Speaker: Drew Gregory" closed="true" %}}
+
+Drew is a software engineer at Formal. While at Vanta, Drew was the TL for the Test Experience team and worked on Vanta's automated tests product. While at Stanford, he was co-president for the Stanford Code the Change chapter and provided student volunteer development help for social good organizations. He also enjoyed research in HCI and cloud security. Outside of learning as much as he can about computer security, he likes to run up San Francisco hills and read with a cup of a coffee.
+
+{{% /details %}}
+
 ### From Logs to Language: Using Encoder-Decoder Architectures to Translate Cyber Threats
 
 *Friday, February 20, 2026 at 4:30pm* \
