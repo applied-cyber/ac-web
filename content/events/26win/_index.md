@@ -3,6 +3,21 @@ title: Winter 2026
 weight: 95
 ---
 
+### AI Attacks
+
+*Friday, March 6, 2026 at 4:30pm* \
+*Shriram 108*
+
+Join us for a discussion with Dr. Neil Daswani on the rise of non-human adversaries—where AI doesn’t just assist attackers, it can execute the vast majority of an attack autonomously. He’ll break down key watershed moments of the AI age, from the first documented AI-orchestrated espionage campaigns to multimillion-dollar deepfake heists, and what they signal for defenders today.
+
+{{< figure src="flyers/2026-03-06-ai-attacks-neil-daswani.png" width=500 >}}
+
+{{% details title="Speaker: Neil Daswani" closed="true" %}}
+
+Dr. Neil Daswani is CISO-in-Residence at Firebolt Ventures and Co-Academic Director of Stanford’s Advanced Cybersecurity Program. After earning his PhD from Stanford, he led security initiatives at Google, co-founded Dasient (acquired by Twitter/X), and later served as CISO for multiple public companies including LifeLock, Symantec’s Consumer Business Unit, and QuantumScape. He now advises venture capital firms, focuses on AI and cybersecurity, co-authored two books, holds over a dozen patents, and frequently speaks at leading industry events.
+
+{{% /details %}}
+
 ### Using Proxies to Hide Secrets from Claude Code
 
 *Friday, February 27, 2026 at 4:30pm* \
