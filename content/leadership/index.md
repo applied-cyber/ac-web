@@ -31,6 +31,10 @@ Ashley is a Coterm student in Computer Science with a concentration in computer 
 
 {{< figure src="headshots/movva.jpg" height=300 width=300 >}}
 
+**Operations Manager**: Ethan Kim (Slack @ethankim)
+
+{{< figure src="headshots/kim.jpg" height=300 width=300 >}}
+
 **Advisor & Coach**: Alex Keller (Slack @Alex Keller - SoE IT)
 
 {{< figure src="headshots/keller.png" height=300 width=300 >}}
