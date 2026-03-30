@@ -24,6 +24,7 @@ For all other events, up to 8 team members from the school roster may compete. T
 **Roster**: Rachel Fernandez, Cody Ho, Ethan Ho, Joey Holtzman (*captain*), Donovan Jasper, Anna Wu, Arnold Yang, Victoria Yang, Ashley Dai (*alternate*), Seyma Kilic (*alternate*), Preston Seay (*alternate*).
 
 **Placements**:
+* **1st place**, WRCCDC Regional Finals, March 27-29, 2026.
 * **2nd place**, WRCCDC Qualifier, February 7, 2026.
 
 ### 2025
