@@ -3,6 +3,35 @@ title: Spring 2026
 weight: 94
 ---
 
+### ENI6MA: Post-Credential Security and the Ephemeral Witness Paradigm
+
+*Friday, April 17, 2026 at 4:30pm* \
+*Shriram 108*
+
+Join us for a discussion on the future of cybersecurity with Frank Dylan Rosario, founder of Rosario Cybernetics and leader of ENI6MA, and Dr. Lin Wang, ENI6MA co-inventor. Together, they will explore how ephemeral, context-bound identity systems could replace reusable credentials and reshape zero-trust security, AI agents, and post-quantum threats.
+
+{{< figure src="flyers/2026-04-17-eni6ma-rosario-wang.png" width=500 >}}
+
+{{% details title="Speaker: Frank Dylan Rosario" closed="true" %}}
+
+Mr. Rosario is a systems architect and researcher with 25+ years in high-performance computing, global product delivery, and trust economics. Reviewer-visible experience includes supercomputing and subsequent work in financial technology and mixed reality, alum from IBM, Oracle, and the team that deployed 3 billion production Ai agents (Bixby) at Samsung Research.
+
+ He founded Rosario Cybernetics and leads ENI6MA, oriented toward digital trust rooted in pragmatic mathematical primitives: clear assumptions, bounded disclosure, and verification that does not depend on hoarding reusable secrets, treating identity and authorization as context-bound demonstration rather than portable credentials that outlive their intent.
+
+ His research thesis includes the Rosario–Wang Proof framing and work on perception, action, and constraint in advanced systems. Public profiles: [Google Scholar](https://scholar.google.com/citations?user=2Ej-s5EiQlEJ&hl=en) · [GitHub (soltrinox)](https://github.com/soltrinox) · [Linktree](https://linktr.ee/DylanRosario) · [rosariocyber.com](https://www.rosariocyber.com)
+
+{{% /details %}}
+
+{{% details title="Speaker: Dr. Lin Wang" closed="true" %}}
+
+Dr. Lin Wang holds a Ph.D. in Electrical and Computer Engineering (Duke University, 2013) and has 10+ years building production machine-learning systems from research through deployment. Quantified credentials include three patents, multiple invention disclosures, 16 publications, and 12 international conference presentations. At Samsung Research America he was twice a Samsung Top 10 Innovation Finalist, contributed patents and publications, and transferred Ph.D.-era signal-processing research into Samsung’s embedded stack, including millimeter-wave radar micro-Doppler; his technical scope spans scalable recommendation and ranking, deep learning (ingestion through online inference), embedded and sensing ML, and voice-, vision-, and robotics-related ML.
+
+ He has served in principal-level architecture roles for large-scale recommender systems at Liftoff / Vungle / JetFuel, with measurable engagement and retention outcomes, and has led ML for NVU-style perception and related product surfaces.
+
+ He is a co-inventor of ENI6MA and has collaborated with Frank Rosario for over 10 years; the Rosario–Wang Proof line encodes joint emphasis on rigorous foundations under real-world scale, adversaries, and product pressure. Profiles: [GitHub (orchestor)](https://github.com/orchestor) · [eni6ma.net](https://www.eni6ma.net)
+
+{{% /details %}}
+
 ### Estonia - Scaling Cyber Capacity Worldwide
 
 *Friday, April 3, 2026 at 4:30pm* \
