@@ -3,6 +3,22 @@ title: Spring 2026
 weight: 94
 ---
 
+### Ignore All Previous Instructions...
+
+*Friday, April 24, 2026 at 4:30pm* \
+*Shriram 108*
+
+This Friday, Ashley will be leading a workshop centered around AI systems and Prompt Injections. Join us to hack some chatbots and give a warm welcome to the admits!!
+
+{{< figure src="flyers/2026-04-24-prompt-injection-admit-weekend.png" width=500 >}}
+
+
+{{% details title="Speaker: Ashley Dai" closed="true" %}}
+
+Ashley is a Coterm student in Computer Science with a concentration in computer and network security. She is the Vice President of Applied Cyber and has previously served as the Women in Applied Cyber lead. Ashley has worked with companies including Box, the Stanford Internet Observatory, and SquareX, and is a DEF CON Black Badge recipient. In her free time, she enjoys hacking, building software for social connection, playing volleyball, dancing, and solving logic puzzles.
+
+{{% /details %}}
+
 ### ENI6MA: Post-Credential Security and the Ephemeral Witness Paradigm
 
 *Friday, April 17, 2026 at 4:30pm* \
