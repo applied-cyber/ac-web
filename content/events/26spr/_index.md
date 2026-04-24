@@ -3,7 +3,7 @@ title: Spring 2026
 weight: 94
 ---
 
-### Ignore All Previous Instructions...
+### Ignore All Previous Instructions... (Prompt Injection Workshop)
 
 *Friday, April 24, 2026 at 4:30pm* \
 *Shriram 108*
@@ -11,7 +11,6 @@ weight: 94
 This Friday, Ashley will be leading a workshop centered around AI systems and Prompt Injections. Join us to hack some chatbots and give a warm welcome to the admits!!
 
 {{< figure src="flyers/2026-04-24-prompt-injection-admit-weekend.png" width=500 >}}
-
 
 {{% details title="Speaker: Ashley Dai" closed="true" %}}
 
