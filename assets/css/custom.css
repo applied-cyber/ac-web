@@ -123,11 +123,11 @@ h5 {
     background-color: #1A2128;
 }
 
-/* Hextra v0.10+ renders child pages in the mobile hamburger/sidebar menu. Hide nested levels on
- * mobile so it is consistent with desktop. */
+/* Hextra treats the home page as a parent of the top-level menu in the mobile sidebar. Hide only
+ * that root submenu so Home does not expand into a duplicate of the main navigation. */
 @media (max-width: 767px) {
-    .hextra-sidebar-container .hextra-sidebar-children,
-    .hextra-sidebar-container .hextra-sidebar-collapsible-button {
+    .hextra-sidebar-container>div>ul.hx\:md\:hidden>li:first-child>.hextra-sidebar-item>.hextra-sidebar-collapsible-button,
+    .hextra-sidebar-container>div>ul.hx\:md\:hidden>li:first-child>.hextra-sidebar-children {
         display: none;
     }
 }
