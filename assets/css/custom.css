@@ -130,4 +130,11 @@ h5 {
     .hextra-sidebar-container>div>ul.hx\:md\:hidden>li:first-child>.hextra-sidebar-children {
         display: none;
     }
+
+    /* Hextra also renders the active page's table of contents in the mobile sidebar. Hide those
+     * TOC lists (which always just render as '#') so section headings do not appear as a second
+     * submenu. */
+    .hextra-sidebar-container>div>ul.hx\:md\:hidden li>ul {
+        display: none;
+    }
 }
