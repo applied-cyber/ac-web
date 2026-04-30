@@ -3,6 +3,21 @@ title: Spring 2026
 weight: 94
 ---
 
+### From Zero to Compromise: Hacking Workshop
+
+*Friday, May 1, 2026 at 4:30pm* \
+*Shriram 108*
+
+Join us this Friday for a hands-on workshop that simulates a multi-stage cyber attack! At each step, you'll follow the attacker's path to see how the same vulnerability led to real-world data breaches.
+
+{{< figure src="flyers/2026-05-01-zero-to-compromise.png" width=500 >}}
+
+{{% details title="Speaker: Joey Holtzman" closed="true" %}}
+
+Joey Holtzman is a junior studying computer science with a focus on systems. He is the president of Applied Cyber and is on both the CPTC and CCDC teams. Additionally, he has previously worked as a security engineer at Praetorian and holds the OSCP certification. Outside of security, Joey likes to jump rope, go on bike rides, and study history.
+
+{{% /details %}}
+
 ### Ignore All Previous Instructions... (Prompt Injection Workshop)
 
 *Friday, April 24, 2026 at 4:30pm* \

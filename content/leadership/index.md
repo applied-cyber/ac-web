@@ -7,7 +7,7 @@ toc: false
 
 {{< figure src="headshots/holtzman.jpg" height=300 width=300 >}}
 
-Joey Holtzman is a junior studying computer science with a focus on systems. He is the president of Applied Cyber and is on both the CPTC and CCDC teams. Additionally, he has previously worked as a security engineer at Praetorian and holds the OSCP certification. Outside of security, Joey likes to jump rope, go on bike rides, and hike.
+Joey Holtzman is a junior studying computer science with a focus on systems. He is the president of Applied Cyber and is on both the CPTC and CCDC teams. Additionally, he has previously worked as a security engineer at Praetorian and holds the OSCP certification. Outside of security, Joey likes to jump rope, go on bike rides, and study history.
 
 **Vice President**: Ashley Dai (Slack @Ashley)
 
