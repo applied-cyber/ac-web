@@ -3,6 +3,21 @@ title: Spring 2026
 weight: 94
 ---
 
+### Cyber Supply Chain Risk with Rob Beckett, nDiligence
+
+*Friday, May 8, 2026 at 4:30pm* \
+*Shriram 108*
+
+Join us for a fascinating and terrifying examination of the global cyber supply chain – the most complex and interdependent digital ecosystem in the world.
+
+{{< figure src="flyers/2026-05-08-cyber-supply-chain-risk.png" width=500 >}}
+
+{{% details title="Speaker: Rob Beckett" closed="true" %}}
+
+Rob commands broad expertise in decision sciences, cognitive research, and cyber intelligence to help government agencies, partner nations, and the commercial sector perform informed analysis of risk at scale.
+
+{{% /details %}}
+
 ### From Zero to Compromise: Hacking Workshop
 
 *Friday, May 1, 2026 at 4:30pm* \
