@@ -3,6 +3,21 @@ title: Spring 2026
 weight: 94
 ---
 
+### Hacking the Mind: Adversarial Attacks on Brainwave Authentication Systems
+
+*Friday, May 15, 2026 at 4:30pm* \
+*Shriram 108*
+
+EEG-based authentication promises a future where identity is verified through brainwave signals: internal, continuous, and uniquely human. But we show that these systems are not automatically secure. Even models with high accuracy can be fooled by tiny perturbations to EEG signals, causing the system to misidentify one person as another. This talk examines EEG biometrics from both the attacker’s and defender’s perspective: how these systems work, how adversarial machine learning can break them, and how we might secure neural data before it becomes the next major biometric attack surface.
+
+{{< figure src="flyers/2026-05-15-hacking-the-mind.png" width=500 >}}
+
+{{% details title="Speakers: Michael Thompson, Eugenio Ramirez, Joseph Bae" closed="true" %}}
+
+Michael Thompson, Eugenio Ramirez, and Joseph Bae are senior Computer Science students at SFSU with backgrounds in cybersecurity, computer science education, and AI/ML research.
+
+{{% /details %}}
+
 ### Cyber Supply Chain Risk with Rob Beckett, nDiligence
 
 *Friday, May 8, 2026 at 4:30pm* \
