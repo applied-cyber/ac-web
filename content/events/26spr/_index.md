@@ -3,6 +3,15 @@ title: Spring 2026
 weight: 94
 ---
 
+### Women in Applied Cyber (WAC) Meeting
+
+*Monday , May 18, 2026 at 5:00pm* \
+*Women's Community Center*
+
+Come join us for a Women in Applied Cyber meeting! Discover ways to get involved, enjoy pizza and drinks, and play some cybersecurity-themed games (with prizes!).
+
+{{< figure src="flyers/2026-05-18-wac-meeting.png" width=500 >}}
+
 ### Hacking the Mind: Adversarial Attacks on Brainwave Authentication Systems
 
 *Friday, May 15, 2026 at 4:30pm* \
