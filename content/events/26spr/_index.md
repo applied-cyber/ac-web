@@ -3,6 +3,23 @@ title: Spring 2026
 weight: 94
 ---
 
+### Once Upon a free(); What They Don’t Tell You in CS 107
+
+*Friday, May 22, 2026 at 3:30pm (Special time!)* \
+*Shriram 108*
+
+Join us this Friday at 3:30pm! \
+In CS 107, you implement a heap allocator. But how are they implemented in the real world? What can go so horribly wrong when you misuse it? And how does that have real-world effects?
+
+{{< figure src="flyers/2026-05-22-once-upon-a-free-ethan-ho.png" width=500 >}}
+
+{{% details title="Speaker: Ethan Ho" closed="true" %}}
+
+Ethan is a member of Stanford's CCDC and CPTC teams and a player on the U.S. Cyber Team.
+
+{{% /details %}}
+
+
 ### Women in Applied Cyber (WAC) Meeting
 
 *Monday , May 18, 2026 at 5:00pm* \
