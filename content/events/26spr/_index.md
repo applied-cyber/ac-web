@@ -3,6 +3,22 @@ title: Spring 2026
 weight: 94
 ---
 
+### Pandora: A Next Generation Adversary Emulation Framework
+
+*Friday, May 29, 2026 at 4:30pm* \
+*Shriram 108*
+
+Unleash Pandora's box upon the world! Learn about cutting edge offensive security and persistence techniques from a newly built from scratch adversary emulation framework (malware toolkit). Understand the complex networking, systems, and design principles underlying modern malware and espionage toolkits.
+
+{{< figure src="flyers/2026-05-29-pandora-adversary-framework.png" width=500 >}}
+
+{{% details title="Speaker: Cody Ho" closed="true" %}}
+
+Cody Ho is a founder, MLE, and tooling lead on our CCDC team.  His security related work focuses on the intersection of AI systems and understanding how AI affects both offensive and defensive security research.  He has previously worked for Apple and OpenAI and won first place at the inaugural DEFCON AI CTF.
+
+{{% /details %}}
+
+
 ### Once Upon a free(); What They Don’t Tell You in CS 107
 
 *Friday, May 22, 2026 at 3:30pm (Special time and location!)* \
