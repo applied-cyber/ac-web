@@ -3,6 +3,18 @@ title: Spring 2026
 weight: 94
 ---
 
+### Applied Cyber End of Year Barbecue
+
+*Sunday, May 31, 2026 at 1:00pm* \
+*Mirrielees Courtyard*
+
+Applied Cyber will also be having our end of the year BBQ celebration this Sunday 5/31 at 1 PM in the Mirrielees courtyard!
+We will have vegetarian options. Hope to see you there!
+
+To find the courtyard, head to the following location on the map and walk right behind Mirrielees to the BBQ area: https://maps.app.goo.gl/GLvKWNXqVXtpnq946
+
+{{< figure src="flyers/2026-05-31-ac-end-of-year-bbq.png" width=500 >}}
+
 ### Pandora: A Next Generation Adversary Emulation Framework
 
 *Friday, May 29, 2026 at 4:30pm* \
