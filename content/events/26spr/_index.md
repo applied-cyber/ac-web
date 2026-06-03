@@ -3,6 +3,20 @@ title: Spring 2026
 weight: 94
 ---
 
+### AI Agents at the Frontlines of Cybersecurity
+
+*Thursday, June 4, 2026 at 4:30pm* (SPECIAL DATE) \
+*Shriram 108*
+
+{{< figure src="flyers/2026-06-04-ai-agents-frontlines.png" width=500 >}}
+
+{{% details title="Speaker: Abe Starosta" closed="true" %}}
+
+Abe Starosta leads AI for Security at Microsoft, where he builds AI agents for both offensive and defensive cybersecurity, with a current focus on offensive security. Before Microsoft, Abe worked at Splunk and spent much of his career in startups, including Primer.ai, Human Capital (which he co-founded), and Livongo. He earned both his B.S. (Class of 2016) and M.S. in Computer Science from Stanford University, and remains passionate about the intersection of AI, cybersecurity, and entrepreneurship.
+
+{{% /details %}}
+
+
 ### Applied Cyber End of Year Barbecue
 
 *Sunday, May 31, 2026 at 1:00pm* \
