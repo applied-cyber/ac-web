@@ -5,9 +5,14 @@ width: wide
 aliases:
   - /contact
   - /news
+mainImages:
+  - src: /cover-photo.jpg
+    alt: Stanford Applied Cyber members posing for a group photo
+  - src: /team-photo-2026.jpg
+    alt: Stanford Applied Cyber members
 ---
 
-{{< figure src="/cover-photo.jpg" >}}
+{{< main-images >}}
 
 **Summer 2026 Meetings**: We are currently not meeting for the summer. See [event schedule](https://docs.google.com/spreadsheets/d/1BRya2g0tXbu1OQDVHjcpaixstF0pof3E1WKAKlbYOjU/) for our list of past events.
 

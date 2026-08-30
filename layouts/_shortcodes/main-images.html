@@ -1,0 +1,36 @@
+{{- $images := .Page.Params.mainImages | default (slice) -}}
+{{- $imageCount := len $images -}}
+
+{{- if gt $imageCount 0 -}}
+  <div
+    class="main-image-carousel"
+    data-main-image-carousel
+    aria-label="Featured images"
+    aria-roledescription="carousel"
+  >
+    {{- range $index, $image := $images -}}
+      <img
+        class="main-image-carousel__slide"
+        data-main-image-slide
+        src="{{ $image.src | relURL }}"
+        alt="{{ $image.alt | default "" }}"
+        {{ if ne $index 0 }}hidden loading="lazy"{{ else }}fetchpriority="high"{{ end }}
+      >
+    {{- end -}}
+
+    {{- if gt $imageCount 1 -}}
+      <button
+        class="main-image-carousel__previous"
+        type="button"
+        data-main-image-previous
+        aria-label="Show previous image"
+      >&#10094;</button>
+      <button
+        class="main-image-carousel__next"
+        type="button"
+        data-main-image-next
+        aria-label="Show next image"
+      >&#10095;</button>
+    {{- end -}}
+  </div>
+{{- end -}}

@@ -123,6 +123,87 @@ h5 {
     background-color: #1A2128;
 }
 
+.main-image-carousel {
+    position: relative;
+    margin: 1.5rem 0;
+    overflow: hidden;
+    border-radius: 0.75rem;
+    background: #e5e7eb;
+}
+
+.main-image-carousel__slide {
+    display: block;
+    width: 100%;
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
+    animation: main-image-carousel-fade 350ms ease-in-out;
+}
+
+.main-image-carousel__slide[hidden] {
+    display: none;
+}
+
+.main-image-carousel button {
+    position: absolute;
+    top: 50%;
+    width: 2.75rem;
+    height: 2.75rem;
+    padding: 0;
+    border: 0;
+    border-radius: 9999px;
+    color: #fff;
+    background: rgb(0 0 0 / 55%);
+    cursor: pointer;
+    font-size: 1.25rem;
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(-50%);
+    transition: opacity 150ms ease;
+}
+
+.main-image-carousel:hover button,
+.main-image-carousel:focus-within button {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.main-image-carousel button:hover,
+.main-image-carousel button:focus-visible {
+    background: rgb(0 0 0 / 80%);
+    outline: 2px solid #fff;
+}
+
+.main-image-carousel__previous {
+    left: 1rem;
+}
+
+.main-image-carousel__next {
+    right: 1rem;
+}
+
+@keyframes main-image-carousel-fade {
+    from {
+        opacity: 0.35;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .main-image-carousel__slide {
+        animation: none;
+    }
+}
+
+@media (hover: none) {
+    .main-image-carousel button {
+        opacity: 1;
+        pointer-events: auto;
+    }
+}
+
 /* Hextra treats the home page as a parent of the top-level menu in the mobile sidebar. Hide only
  * that root submenu so Home does not expand into a duplicate of the main navigation. */
 @media (max-width: 767px) {
