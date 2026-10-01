@@ -3,6 +3,13 @@ title: Fall 2026
 weight: 93
 ---
 
+### Intro to Hacking Workshop
+
+*Friday, October 2, 2026 at 5:30pm* \
+*Shriram 262*
+
+Whether you’re completely new to cybersecurity or already have some experience, come by to try out some hands-on hacking challenges, and see what Applied Cyber is all about. Bring your laptop and come hack with us! Hope to see you there! There will be boba!!! 🧋
+
 ### Vigil AI Security Operations with DeepTempo
 
 *Friday, September 25, 2026 at 4:30pm* \
