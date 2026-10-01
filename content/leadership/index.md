@@ -7,33 +7,43 @@ toc: false
 
 {{< figure src="headshots/holtzman.jpg" height=300 width=300 >}}
 
-Joey Holtzman is a junior studying computer science with a focus on systems. He is the president of Applied Cyber and is on both the CPTC and CCDC teams. Additionally, he has previously worked as a security engineer at Praetorian and holds the OSCP certification. Outside of security, Joey likes to jump rope, go on bike rides, and study history.
+Joey Holtzman is a senior studying computer science with a focus on systems. He is the president of Applied Cyber and is on both the CPTC and CCDC teams. Additionally, he has previously worked as a security engineer at OpenAI and Praetorian, a software engineer at Google and Armadin, and holds the OSCP certification. Outside of security, Joey likes to jump rope, go on bike rides, and study history.
 
-**Vice President**: Ashley Dai (Slack @Ashley)
+**Vice President**: Arnold Yang (Slack @Arnold Yang)
 
-{{< figure src="headshots/dai.jpg" height=300 width=300 >}}
+{{< figure src="headshots/ayang.png" height=300 width=300 >}}
 
-Ashley is a Coterm student in Computer Science with a concentration in computer and network security. She is the Vice President of Applied Cyber and has previously served as the Women in Applied Cyber lead. Ashley has worked with companies including Box, the Stanford Internet Observatory, and SquareX, and is a DEF CON Black Badge recipient. In her free time, she enjoys hacking, building software for social connection, playing volleyball, dancing, and solving logic puzzles.
+**Financial Officer**: Preston Seay (Slack @pseay)
 
-**Financial Officer**: Arnold Yang (Slack @Arnold Yang)
+{{< figure src="headshots/seay.jpg" height=300 width=300 >}}
 
-{{< figure src="headshots/yang.png" height=300 width=300 >}}
-
-**Competitions Lead**: Donovan Jasper (Slack @Donovan)
+**Co-Competitions Lead**: Donovan Jasper (Slack @Donovan)
 
 {{< figure src="headshots/jasper.jpg" height=300 width=300 >}}
+
+**Co-Competitions Lead**: Ethan Ho (Slack @Ethan)
+
+{{< figure src="headshots/ho.png" height=300 width=300 >}}
 
 **Women in Applied Cyber Lead**: Tara Dixit (Slack @Tara Dixit)
 
 {{< figure src="headshots/dixit.png" height=300 width=300 >}}
 
-**External Communications Lead**: Rohan Movva (Slack @Rohan Movva)
-
-{{< figure src="headshots/movva.jpg" height=300 width=300 >}}
-
-**Operations Manager**: Ethan Kim (Slack @ethankim)
+**Communications Lead**: Ethan Kim (Slack @ethankim)
 
 {{< figure src="headshots/kim.jpg" height=300 width=300 >}}
+
+**Projects Lead**: Kyleen Liao (Slack @kliao07)
+
+{{< figure src="headshots/liao.jpg" height=300 width=300 >}}
+
+**Campus Outreach Lead**: Rachel Fernandez (Slack @Rachel Fernandez)
+
+{{< figure src="headshots/fernandez.png" height=300 width=300 >}}
+
+**Corporate Outreach Lead**: Victoria Yang (Slack @Victoria)
+
+{{< figure src="headshots/vyang.jpg" height=300 width=300 >}}
 
 **Advisor & Coach**: Alex Keller (Slack @Alex Keller - SoE IT)
 
