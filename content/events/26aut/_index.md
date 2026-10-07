@@ -3,6 +3,15 @@ title: Fall 2026
 weight: 93
 ---
 
+### Lockpicking Workshop
+
+*Thursday, October 8, 2026 at 4:30pm* \
+*Shriram 108*
+
+Come learn how to pick all different kinds of locks, from beginner to advanced level locks. Open to everyone, no experience needed! Boba will be provided.
+
+{{< figure src="flyers/2026-10-08-lockpicking-workshop.png" width=500 >}}
+
 ### Intro to Hacking Workshop
 
 *Friday, October 2, 2026 at 5:30pm* \
