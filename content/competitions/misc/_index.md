@@ -5,6 +5,8 @@ toc: false
 
 Applied Cyber has competed in a variety of other competitions beyond CCDC and CPTC over the years.
 
+* **2nd place**, CISS 2026, September 14 - September 18, 2026.
+    - Roster: Donovan Jasper (*captain*), Joey Holtzman, Arnold Yang, Ethan Ho, Mani Sverrisson, Kyleen Liao, Preston Seay, Alex Keller.
 * **3rd place**, CISS 2025, September 29 - October 3, 2025.
     - Roster: Donovan Jasper (*captain*), Joey Holtzman, Jeremy Kim, Arnold Yang, Anna Wu, Rachel Fernandez, Ethan Ho, Teddy Zhang.
 * **1st place**, DEF CON 33 Crypto & Privacy Village Goldbug CTF (Black Badge event), August 8-10, 2025.
