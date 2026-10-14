@@ -3,6 +3,15 @@ title: Fall 2026
 weight: 93
 ---
 
+### Hands-on Hacking Workshop with TryHackMe
+
+*Friday, October 16, 2026 at 4:30pm* \
+*Shriram 262*
+
+Two TryHackMe guests will be joining us as we do live hacking challenges followed by a Q&A session with them. Plus, there will be a raffle to give away THM Premium accounts! RSVP here: https://luma.com/eed97pux
+
+{{< figure src="flyers/2026-10-16-tryhackme-workshop.png" width=500 >}}
+
 ### Lockpicking Workshop
 
 *Thursday, October 8, 2026 at 4:30pm* \
