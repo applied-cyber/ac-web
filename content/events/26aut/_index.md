@@ -3,6 +3,15 @@ title: Fall 2026
 weight: 93
 ---
 
+### Women in Applied Cyber Meeting
+
+*Monday, October 19, 2026 at 4:30pm* \
+*Women's Community Center*
+
+Join us for the first Women in Applied Cyber meeting of the quarter! We will have food and cybersecurity-themed games. We hope to see you there!
+
+{{< figure src="flyers/2026-10-19-wac-meeting.png" width=500 >}}
+
 ### Hands-on Hacking Workshop with TryHackMe
 
 *Friday, October 16, 2026 at 4:30pm* \
